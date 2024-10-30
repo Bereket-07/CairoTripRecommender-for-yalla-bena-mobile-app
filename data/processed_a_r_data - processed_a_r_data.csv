@@ -1,0 +1,685 @@
+name,state,street,lon,lat,formatted,categories,min_fee
+007',Red Sea,"Hurghada, Ismailia Road",33.7191656,27.3133308,"007, Hurghada, Ismailia Road, Al Ahia', 84509, Egypt","['catering', 'catering.restaurant', 'catering.restaurant.seafood']",0
+3nd Sokrat,Red Sea,Ahmed Ragab Street,33.67413156,27.40809795,"3nd Sokrat, Ahmed Ragab Street, Aj Jona, 84513, Egypt","['building', 'building.catering', 'catering', 'catering.restaurant', 'catering.restaurant.regional']",0
+9D Cinema,Bani Sweif,Ahmed Orabi Street,31.0999873,29.0646308,"9D Cinema, Ahmed Orabi Street, Bani Ateya, 62513, Egypt","['entertainment', 'entertainment.cinema']",0
+Abdel Rahim Koueider,Cairo,Street 9,31.2608802,29.9568801,"Abdel Rahim Koueider, 73 Street 9, Ma‘di Al Khahiri, Cairo, 11728, Egypt","['commercial', 'commercial.food_and_drink', 'commercial.food_and_drink.bakery']",0
+Abeer Restaurant,Aswan,Abtal Al Tahrir Street,32.9007941,24.0991194,"Abeer Restaurant, Abtal Al Tahrir Street, Saleh Gahin, 81543, Egypt","['catering', 'catering.restaurant']",0
+Abu Al Hawa café,Aswan,Aswan Western Agricultural Road,32.8807659,24.1343654,"Abu Al Hawa café, Aswan Western Agricultural Road, Nag Al-Ghalalab, 81911, Egypt","['catering', 'catering.cafe']",0
+Abu Auf,Cairo,Street 9,31.2616461,29.955385,"Abu Auf, Street 9, Ma‘di Al Khahiri, Cairo, 11431, Egypt","['commercial', 'commercial.food_and_drink', 'commercial.food_and_drink.nuts']",0
+Abu Khaled,Cairo,Champollion Street,31.2374581,30.04943875,"Abu Khaled, 13 Champollion Street, Al-Azbakeya, Cairo, 11519, Egypt","['building', 'building.catering', 'catering', 'catering.restaurant']",0
+Adam,South Sinai,"Ras Sedr, Al Tour Road",32.7502116,29.56700885,"Adam, Ras Sedr, Al Tour Road, Ras Sudr, 46612, Egypt","['building', 'building.catering', 'catering', 'catering.restaurant']",0
+Adam's Döner & Grill,Cairo,Street 12,31.2617669,29.9599,"Adam's Döner & Grill, Street 12, Ma‘di Al Khahiri, Cairo, 11728, Egypt","['catering', 'catering.fast_food', 'catering.fast_food.kebab']",0
+AL ABD,Al Qalyubiya,Hany Kamel Street,31.1802023,30.4742417,"AL ABD, Hany Kamel Street, Banha, 13516, Egypt","['catering', 'catering.restaurant']",0
+Al Abd Bakery,Luxor,Tamthal Mamnoon Street,32.6253596,25.7136826,"Al Abd Bakery, Tamthal Mamnoon Street, Al Baairat Village, 85958, Egypt","['commercial', 'commercial.food_and_drink', 'commercial.food_and_drink.bakery']",0
+Al Abd Bakery,Luxor,Tamthal Mamnoon Street,32.6253596,25.7136826,"Al Abd Bakery, Tamthal Mamnoon Street, Al Baairat Village, 85958, Egypt","['commercial', 'commercial.food_and_drink', 'commercial.food_and_drink.bakery']",0
+Al Ahram beer shop,Aswan,Mohamed Ahmed Yaacoub Street,32.9025115,24.103255,"Al Ahram beer shop, Mohamed Ahmed Yaacoub Street, Saleh Gahin, 81543, Egypt","['commercial', 'commercial.food_and_drink', 'commercial.food_and_drink.drinks']",0
+Al Batanyoun Port parking,Aswan,25,32.8829133,24.0370488,"Al Batanyoun Port parking, 25, Shash, 81531, Egypt","['catering', 'catering.restaurant']",0
+Al Diwan,Red Sea,"Al Qusair, Marsa Aalam Road",34.6094387,25.6001619,"Al Diwan, Al Qusair, Marsa Aalam Road, Egypt","['catering', 'catering.restaurant', 'catering.restaurant.international', 'internet_access', 'internet_access.free']",0
+Al Fresco,Red Sea,Mövenpick El Qusair,34.24913377,26.1529809,"Al Fresco, Mövenpick El Qusair, Al Qusair City, 84712, Egypt","['building', 'building.catering', 'catering', 'catering.restaurant', 'catering.restaurant.italian']",0
+Al masry,Aswan,Al Matar Street,32.8987551,24.0927083,"Al masry, Al Matar Street, Othman Ahmed Ibrahim, 81521, Egypt","['catering', 'catering.restaurant']",0
+Al Shabrawy,South Sinai,Al Salam Street,32.7195341,29.5897335,"Al Shabrawy, Al Salam Street, Ras Sudr, 46612, Egypt","['catering', 'catering.restaurant', 'catering.restaurant.mediterranean', 'vegetarian']",0
+Al Sultan,Red Sea,"Al Qusair, Marsa Aalam Road",34.6371145,25.5346655,"Al Sultan, Al Qusair, Marsa Aalam Road, Port Ghalib, Egypt","['catering', 'catering.restaurant']",0
+Al-Dawar Cafe,Giza,Mahmoud Eissa Street,31.1827293,30.0575892,"Al-Dawar Cafe, Mahmoud Eissa Street, Meet Oqba, Giza, 12827, Egypt","['catering', 'catering.cafe']",0
+Aladdin Restaurant - Oriental Food,Red Sea,"Hurghada, Ismailia Road",33.7184021,27.312691,"Aladdin Restaurant - Oriental Food, Hurghada, Ismailia Road, Al Ahia', 84509, Egypt","['catering', 'catering.restaurant', 'catering.restaurant.oriental']",0
+Alfredo,Red Sea,"Al Qusair, Marsa Aalam Road",34.7895061,25.2561814,"Alfredo, Al Qusair, Marsa Aalam Road, Egypt","['catering', 'catering.restaurant', 'catering.restaurant.italian']",0
+Allaga,Cairo,Abd Al Latif Hamza Street,31.3511239,30.0683328,"Allaga, 11 Abd Al Latif Hamza Street, Cairo, 11391, Egypt","['catering', 'catering.fast_food', 'internet_access']",0
+Almadiafa - المضيفه,Cairo,Champollion Street,31.2353043,30.0472654,"Almadiafa, 4 Champollion Street, Al-Azbakeya, Cairo, 11556, Egypt","['accommodation', 'accommodation.hotel']",0
+Almadiafa - المضيفه,Cairo,Champollion Street,31.2353043,30.0472654,"Almadiafa, 4 Champollion Street, Al-Azbakeya, Cairo, 11556, Egypt","['accommodation', 'accommodation.hotel']",0
+Amin Hotel,Cairo,Al Falaky Street,31.23967576,30.04534915,"Amin Hotel, 34 Al Falaky Street, Abdin, Cairo, 11513, Egypt","['accommodation', 'accommodation.hotel', 'building', 'building.accommodation']",0
+Amin Hotel,Cairo,Al Falaky Street,31.23967576,30.04534915,"Amin Hotel, 34 Al Falaky Street, Abdin, Cairo, 11513, Egypt","['accommodation', 'accommodation.hotel', 'building', 'building.accommodation']",0
+Andrea,Giza,Teraa Al Maryotia Street,31.141951,29.9994195,"Andrea, Teraa Al Maryotia Street, Kom al Akhdar, Cairo, 12512, Egypt","['catering', 'catering.restaurant', 'catering.restaurant.regional']",0
+Angelica Desert Bar,Cairo,Street 9,31.26006,29.958034,"Angelica Desert Bar, Street 9, Ma‘di Al Khahiri, Cairo, 11728, Egypt","['catering', 'catering.restaurant']",0
+Animalia,Aswan,Main Street,32.88823535,24.0894255,"Animalia, Main Street, Siou, 81529, Egypt","['building', 'building.tourism', 'entertainment', 'entertainment.museum']",0
+Arabian Nights,Cairo,Al Aded Street,31.2672675,30.0486398,"Arabian Nights, 10 Al Aded Street, Islamic Cairo, Cairo, 11633, Egypt","['accommodation', 'accommodation.hotel']",0
+Arabian Nights,Cairo,Al Aded Street,31.2672675,30.0486398,"Arabian Nights, 10 Al Aded Street, Islamic Cairo, Cairo, 11633, Egypt","['accommodation', 'accommodation.hotel']",0
+Arby's,Cairo,Talaat Moustafa Road,31.61336757,30.10393215,"Arby's, Talaat Moustafa Road, Cairo, 19511, Egypt","['building', 'building.catering', 'catering', 'catering.fast_food']",0
+Arena,Red Sea,Selena Bay road B,33.7117309,27.3191572,"Arena, Selena Bay road B, Al Ahia', 84509, Egypt","['catering', 'catering.restaurant']",0
+Art al-lewa,Giza,Mohamed Ali Al Eisiry Street,31.1872587,30.0498157,"Art al-lewa, Mohamed Ali Al Eisiry Street, Meet Oqba, Giza, 13211, Egypt","['entertainment', 'entertainment.culture', 'entertainment.culture.arts_centre']",0
+Art Cafe,Cairo,Street 13,31.2629305,29.9592952,"Art Cafe, Street 13, Ma‘di Al Khahiri, Cairo, 11431, Egypt","['catering', 'catering.cafe']",0
+Art from People to People Foundation,Luxor,Tamthal Mamnoon Street,32.6246003,25.7149153,"Art from People to People Foundation, Tamthal Mamnoon Street, Al Baairat Village, 85958, Egypt","['entertainment', 'entertainment.museum']",0
+Art from People to People Foundation,Luxor,Tamthal Mamnoon Street,32.6246003,25.7149153,"Art from People to People Foundation, Tamthal Mamnoon Street, Al Baairat Village, 85958, Egypt","['entertainment', 'entertainment.museum']",0
+Ashri Toki,Aswan,loop from Nubialin,32.8915802,24.0907032,"Ashri Toki, loop from Nubialin, Koti, 81529, Egypt","['catering', 'catering.restaurant']",0
+Asian Corner,Cairo,Street 18,31.2691283,29.9583195,"Asian Corner, Street 18, Cairo, 11431, Egypt","['catering', 'catering.restaurant', 'catering.restaurant.asian']",0
+Asian Corner,Cairo,Al Asraa Street,31.3160378,29.9812374,"Asian Corner, Al Asraa Street, Cairo, 00007, Egypt","['catering', 'catering.restaurant', 'catering.restaurant.asian']",0
+Aspero Restaurant,Giza,Al Nil Street,31.21815953,30.02610385,"Aspero Restaurant, 133 Al Nil Street, Dokki, Giza, 12513, Egypt","['building', 'building.catering', 'catering', 'catering.restaurant', 'catering.restaurant.american', 'halal', 'internet_access', 'vegan', 'vegetarian']",0
+Aswan Moon,Aswan,Kornish Al Nile Street,32.8949146,24.0903101,"Aswan Moon, Kornish Al Nile Street, Abd Al Aazim Hassn, 81543, Egypt","['catering', 'catering.restaurant', 'catering.restaurant.regional', 'internet_access']",0
+Aswan Museum,Aswan,loop from Nubialin,32.88704021,24.08501845,"Aswan Museum, loop from Nubialin, Koti, 81529, Egypt","['building', 'building.tourism', 'entertainment', 'entertainment.museum']",0
+Aswan Plaza / Cilantro,Aswan,Kornish Al Nile Street,32.8983258,24.097358,"Aswan Plaza / Cilantro, Kornish Al Nile Street, Saleh Gahin, 81511, Egypt","['catering', 'catering.restaurant']",0
+ATA BAZAR - Souvenirs for Fixed Price,Luxor,Maabad Luxor Street,32.6412313,25.7001398,"ATA BAZAR - Souvenirs for Fixed Price, Maabad Luxor Street, Luxor City, Luxor, 85951, Egypt","['commercial', 'commercial.gift_and_souvenir']",0
+ATA BAZAR - Souvenirs for Fixed Price,Luxor,Maabad Luxor Street,32.6412313,25.7001398,"ATA BAZAR - Souvenirs for Fixed Price, Maabad Luxor Street, Luxor City, Luxor, 85951, Egypt","['commercial', 'commercial.gift_and_souvenir']",0
+Atari Ps&Cafe,Suez,Naser Street,32.5255109,29.9691245,"Atari Ps&Cafe, Naser Street, Suez, 43515, Egypt","['catering', 'catering.cafe']",0
+Atlantis,Cairo,Abd Al Aziz Al Seoud Street,31.2225413,30.0188759,"Atlantis, Abd Al Aziz Al Seoud Street, Al Manyal, Cairo, 11555, Egypt","['catering', 'catering.restaurant', 'catering.restaurant.seafood']",0
+Atlantis,Cairo,Abd Al Aziz Al Seoud Street,31.22246505,30.01894785,"Atlantis, Abd Al Aziz Al Seoud Street, Al Manyal, Cairo, 11555, Egypt","['building', 'building.catering', 'catering', 'catering.restaurant', 'internet_access']",0
+Atlantis Pyramids Inn,Giza,Bni Sofyan Street,31.1401736,29.9759431,"Atlantis Pyramids Inn, 4 Bni Sofyan Street, Kom al Akhdar, Giza, 12557, Egypt","['accommodation', 'accommodation.hotel', 'internet_access']",0
+Atlas international hotel,Cairo,El Fawala Street,31.2462697,30.0483875,"Atlas international hotel, El Fawala Street, Bab al Shariyah, Cairo, 11518, Egypt","['accommodation', 'accommodation.hotel']",0
+Atta,Luxor,Al Qarnh Road,32.6310783,25.7077968,"Atta, Al Qarnh Road, Al Baairat Village, 85958, Egypt","['commercial', 'commercial.food_and_drink', 'commercial.food_and_drink.bakery']",0
+Atta,Luxor,Al Qarnh Road,32.6310783,25.7077968,"Atta, Al Qarnh Road, Al Baairat Village, 85958, Egypt","['commercial', 'commercial.food_and_drink', 'commercial.food_and_drink.bakery']",0
+Auntie Loulou,Cairo,Street 9,31.2633854,29.9536455,"Auntie Loulou, 47 Street 9, Ma‘di Al Khahiri, Cairo, 11728, Egypt","['catering', 'catering.cafe', 'catering.cafe.ice_cream', 'catering.ice_cream']",0
+Aussichtsrestaurant,Aswan,Al Fanadq Street,32.88107337,24.07270585,"Aussichtsrestaurant, Al Fanadq Street, Nagaa Al Mahata, 81529, Egypt","['catering', 'catering.restaurant', 'catering.restaurant.regional', 'tourism', 'tourism.attraction', 'tourism.attraction.viewpoint']",0
+Azar Hotek***,Cairo,Adly Street,31.2444065,30.0512617,"Azar Hotek***, 09 Adly Street, Al-Azbakeya, Cairo, 11574, Egypt","['catering', 'catering.cafe']",0
+Bab Rizq,Giza,El Geish Street,31.0894134,29.9591882,"Bab Rizq, El Geish Street, Ash Sheikh Zayed, 12587, Egypt","['commercial', 'commercial.food_and_drink', 'commercial.food_and_drink.fruit_and_vegetable']",0
+Baba Dooi,Aswan,loop from Nubialin,32.8915801,24.0943616,"Baba Dooi, loop from Nubialin, Siou, 81511, Egypt","['catering', 'catering.restaurant']",0
+Baladina,Cairo,Kornish Al Nil Street,31.2342888,29.9745973,"Baladina, Kornish Al Nil Street, Al-Maasara, Cairo, 11917, Egypt","['catering', 'catering.restaurant', 'catering.restaurant.arab']",0
+Barista,Cairo,Street 9,31.2654792,29.9515758,"Barista, 24 Street 9, Cairo, 11728, Egypt","['catering', 'catering.cafe']",0
+Basmatio,Cairo,Al Nasr Street,31.2841324,29.9760998,"Basmatio, Al Nasr Street, Cairo, 11742, Egypt","['catering', 'catering.fast_food']",0
+Bawabat,Giza,"Madina Al Selmaneya, Ezbet Al Safi Road",30.81328846,30.2089248,"Bawabat, Km 58 Madina Al Selmaneya, Ezbet Al Safi Road, Al Hagir, Egypt","['catering', 'catering.restaurant']",0
+Bazooka Fried Chicken,Cairo,Street 9,31.2643952,29.9526188,"Bazooka Fried Chicken, Street 9, Ma‘di Al Khahiri, Cairo, 11431, Egypt","['catering', 'catering.fast_food']",0
+Beach Restaurant Mashawi,Red Sea,"Al Qusair, Marsa Aalam Road",34.6031757,25.6070841,"Beach Restaurant Mashawi, Al Qusair, Marsa Aalam Road, Egypt","['catering', 'catering.restaurant']",0
+Beano's,Cairo,Street 10,31.26041545,29.9584424,"Beano's, Street 10, Ma‘di Al Khahiri, Cairo, 11728, Egypt","['catering', 'catering.cafe', 'internet_access', 'internet_access.free']",0
+Beano's,Cairo,Al Sheikh Al Marsafi Street,31.22271893,30.0574267,"Beano's, 10 Al Sheikh Al Marsafi Street, Al-Sabtiyya, 11568, Egypt","['building', 'building.catering', 'catering', 'catering.cafe', 'internet_access', 'internet_access.free']",0
+Beano's Cafe,Cairo,Side Al Tesein Southern Street,31.48784738,30.02609725,"Beano's Cafe, Side Al Tesein Southern Street, Cairo, 11865, Egypt","['building', 'building.catering', 'catering', 'catering.cafe']",0
+Bedouin Camp,New Valley,"Al Farafrah, Al Wahat Al Dakhlah Road",28.9496063,25.5606621,"Bedouin Camp, Al Farafrah, Al Wahat Al Dakhlah Road, Egypt","['accommodation', 'accommodation.hotel']",0
+Bedouin Camp,New Valley,"Al Farafrah, Al Wahat Al Dakhlah Road",28.9496063,25.5606621,"Bedouin Camp, Al Farafrah, Al Wahat Al Dakhlah Road, Egypt","['accommodation', 'accommodation.hotel']",0
+Beduin cafe,Red Sea,"Al Qusair, Marsa Aalam Road",34.7576431,25.2507496,"Beduin cafe, Al Qusair, Marsa Aalam Road, Marsa Alam City, Egypt","['catering', 'catering.cafe']",0
+Belgaufra Belgian Waffles,Cairo,Street 9,31.2597509,29.95807,"Belgaufra Belgian Waffles, 82 Street 9, Ma‘di Al Khahiri, Cairo, 11728, Egypt","['catering', 'catering.restaurant']",0
+Bella Chicken,Red Sea,"Al Qusair, Marsa Aalam Road",34.79020266,25.2549274,"Bella Chicken, Al Qusair, Marsa Aalam Road, Egypt","['building', 'building.catering', 'catering', 'catering.restaurant', 'catering.restaurant.chicken']",0
+Best View Pyramids Hotel,Giza,Abou Saraya Street,31.1420605,29.9734817,"Best View Pyramids Hotel, 13 Abou Saraya Street, Nazlet al Batran, Giza, 12125, Egypt","['accommodation', 'accommodation.hotel', 'internet_access']",0
+Best View Pyramids Hotel,Giza,Abou Saraya Street,31.1420605,29.9734817,"Best View Pyramids Hotel, 13 Abou Saraya Street, Nazlet al Batran, Giza, 12125, Egypt","['accommodation', 'accommodation.hotel', 'internet_access']",0
+Best'n'Town,Red Sea,"Al Zaafarana, Ra's Ghareb Road",32.6472053,29.1000543,"Best'n'Town, Al Zaafarana, Ra's Ghareb Road, Gharib Cape, Egypt","['catering', 'catering.fast_food', 'catering.fast_food.burger']",0
+Better Buns,Red Sea,Ahmed Ragab Street,33.6761369,27.4101102,"Better Buns, Ahmed Ragab Street, Gamsha, 84513, Egypt","['catering', 'catering.restaurant']",0
+BiCafe,Red Sea,"Al Qusair, Marsa Aalam Road",34.6352537,25.5340187,"BiCafe, Al Qusair, Marsa Aalam Road, Port Ghalib, Egypt","['catering', 'catering.restaurant']",0
+Bikya - Second hand books and coffee,Cairo,Street 85,31.2632333,29.9542976,"Bikya - Second hand books and coffee, 40 Street 85, Cairo, 11431, Egypt","['catering', 'catering.cafe']",0
+Bio Shop,Cairo,Street 231,31.2771694,29.9608405,"Bio Shop, Street 231, Cairo, 11431, Egypt","['commercial', 'commercial.food_and_drink', 'commercial.food_and_drink.deli', 'commercial.food_and_drink.health_food']",0
+Black Rock Stone Grill,Cairo,Baha' Al Din Qaraqosh Street,31.21928136,30.0574889,"Black Rock Stone Grill, Baha' Al Din Qaraqosh Street, Al-Sabtiyya, 11211, Egypt","['building', 'building.catering', 'catering', 'catering.restaurant']",0
+Bob's,Red Sea,Ahmed Ragab Street,33.6748017,27.4069709,"Bob's, Ahmed Ragab Street, Gamsha, 84513, Egypt","['catering', 'catering.fast_food']",0
+bodega,Red Sea,Inas Al Deghedi Street,33.6752033,27.3959537,"bodega, Inas Al Deghedi Street, Gamsha, 84513, Egypt","['catering', 'catering.restaurant', 'internet_access']",0
+Brayka Bay Reef Hotel,Red Sea,"Al Qusair, Marsa Aalam Road",34.80006761,25.21607555,"Brayka Bay Reef Hotel, Al Qusair, Marsa Aalam Road, Egypt","['building', 'building.catering', 'catering', 'catering.restaurant']",0
+Brazilian Coffee Stores,Cairo,Street 9,31.2621844,29.954672,"Brazilian Coffee Stores, Street 9, Ma‘di Al Khahiri, Cairo, 11431, Egypt","['catering', 'catering.cafe']",0
+Breeze Restaurant Bar,Red Sea,Ahmed Ragab Street,33.67529877,27.4090325,"Breeze Restaurant Bar, Ahmed Ragab Street, Gamsha, 84513, Egypt","['building', 'building.catering', 'catering', 'catering.restaurant']",0
+Buffalo Burger,Cairo,Al Nozha Street,31.3431397,30.099436,"Buffalo Burger, 105 Al Nozha Street, Heliopolis, Cairo, 11736, Egypt","['catering', 'catering.fast_food', 'catering.fast_food.burger']",0
+Building,Suez,Parking H5,32.58109281,29.34906475,"Building, Parking H5, Egypt","['accommodation', 'accommodation.hotel', 'building', 'building.accommodation']",0
+Building,Suez,Parking H5,32.58147768,29.3492611,"Building, Parking H5, Egypt","['accommodation', 'accommodation.hotel', 'building', 'building.accommodation']",0
+Building,Suez,Parking H5,32.58070658,29.3488578,"Building, Parking H5, Egypt","['accommodation', 'accommodation.hotel', 'building', 'building.accommodation']",0
+Building,Suez,Parking H5,32.5810289,29.34979415,"Building, Parking H5, Egypt","['accommodation', 'accommodation.hotel', 'building', 'building.accommodation']",0
+Building,Suez,Parking H5,32.58042195,29.34947725,"Building, Parking H5, Egypt","['accommodation', 'accommodation.hotel', 'building', 'building.accommodation']",0
+Building,Suez,Parking H5,32.58015698,29.3501325,"Building, Parking H5, Egypt","['accommodation', 'accommodation.hotel', 'building', 'building.accommodation']",0
+Building,Suez,Parking H5,32.58057908,29.35034465,"Building, Parking H5, Egypt","['accommodation', 'accommodation.hotel', 'building', 'building.accommodation']",0
+Building,Suez,Parking H5,32.57929118,29.34965445,"Building, Parking H5, Egypt","['accommodation', 'accommodation.hotel', 'building', 'building.accommodation']",0
+Building,Suez,Parking H5,32.57997829,29.34846745,"Building, Parking H5, Egypt","['accommodation', 'accommodation.hotel', 'building', 'building.accommodation']",0
+Burger King,Cairo,Departure,31.3960429,30.1114022,"Burger King, Departure, Cairo, 11351, Egypt","['catering', 'catering.fast_food', 'catering.fast_food.burger']",0
+Burger King,Cairo,Al Nasr Street,31.2844277,29.9761352,"Burger King, Al Nasr Street, Cairo, 11742, Egypt","['catering', 'catering.fast_food', 'catering.fast_food.burger']",0
+Burger King,Cairo,The Ring Road,31.308828,29.9861357,"Burger King, The Ring Road, Cairo, 11742, Egypt","['catering', 'catering.fast_food', 'catering.fast_food.burger']",0
+Buzzha Beach Restaurant (KBC),Red Sea,Amr Khalil Street,33.6729123,27.4202076,"Buzzha Beach Restaurant (KBC), Amr Khalil Street, Gamsha, 84513, Egypt","['building', 'building.catering', 'catering', 'catering.restaurant', 'catering.restaurant.international']",0
+Caf,Giza,Bni Sofyan Street,31.1405385,29.9754028,"Caf, Bni Sofyan Street, Kom al Akhdar, Giza, 12125, Egypt","['catering', 'catering.cafe']",0
+Caf,Cairo,Al Mahgr Road,31.4476831,29.9524572,"Caf, Al Mahgr Road, Cairo, 11835, Egypt","['catering', 'catering.cafe']",0
+Caf,Cairo,Abd Al Rahman Al Jabarti Street,31.4033246,30.0089648,"Caf, Abd Al Rahman Al Jabarti Street, Cairo, 11936, Egypt","['catering', 'catering.cafe']",0
+Caf,Giza,Al Bostan Street,31.0108638,30.0255518,"Caf, Al Bostan Street, El Nada Compound, 12573, Egypt","['catering', 'catering.cafe']",0
+Caf,Cairo,Wasem Hassn Street,31.2340665,30.0468725,"Caf, Wasem Hassn Street, Bab al Luq, Cairo, 11556, Egypt","['catering', 'catering.cafe']",0
+Cafe Greco,Cairo,Street 9,31.2613963,29.9556029,"Cafe Greco, Street 9, Ma‘di Al Khahiri, Cairo, 11431, Egypt","['catering', 'catering.cafe']",0
+Cafeteria,Aswan,"Idfu, Marsa Aalam Road",33.367851,24.994646,"Cafeteria, Idfu, Marsa Aalam Road, Egypt","['catering', 'catering.cafe']",0
+Cairo Photography Club,Cairo,Street 7,31.257741,29.959,"Cairo Photography Club, 46 Street 7, Ma‘di Al Khahiri, Cairo, 11728, Egypt","['entertainment', 'entertainment.culture', 'entertainment.culture.arts_centre']",0
+Cairo Pyramids Hotel,Giza,"Cairo, Alexandria Desert Road",31.126265,29.9929105,"Cairo Pyramids Hotel, Cairo, Alexandria Desert Road, Remaya Square, 12572, Egypt","['accommodation', 'accommodation.hotel']",0
+Cairo Pyramids Hotel,Giza,"Cairo, Alexandria Desert Road",31.126265,29.9929105,"Cairo Pyramids Hotel, Cairo, Alexandria Desert Road, Remaya Square, 12572, Egypt","['accommodation', 'accommodation.hotel']",0
+Cairo World Trade Center Hotel & Residences,Cairo,Al Matbaah Al Amireh Street,31.2281499,30.0643123,"Cairo World Trade Center Hotel & Residences, 1191 Al Matbaah Al Amireh Street, Al-Sabtiyya, Cairo, 11221, Egypt","['accommodation', 'accommodation.hotel', 'internet_access', 'internet_access.free']",0
+Cairo World Trade Center Hotel & Residences,Cairo,Al Matbaah Al Amireh Street,31.2281499,30.0643123,"Cairo World Trade Center Hotel & Residences, 1191 Al Matbaah Al Amireh Street, Al-Sabtiyya, Cairo, 11221, Egypt","['accommodation', 'accommodation.hotel', 'internet_access', 'internet_access.free']",0
+Cairut,Cairo,Street 7,31.2599966,29.9561618,"Cairut, Street 7, Ma‘di Al Khahiri, Cairo, 11728, Egypt","['catering', 'catering.restaurant']",0
+Caleo,Red Sea,Inas Al Deghedi Street,33.673887,27.396159,"Caleo, Inas Al Deghedi Street, Gamsha, 84513, Egypt","['catering', 'catering.restaurant']",0
+calistoegypt,Giza,Waslet Dahshur Road,30.9700716,30.020492,"calistoegypt, G21CITYPARK Waslet Dahshur Road, October Hills, 12588, Egypt","['catering', 'catering.restaurant', 'internet_access', 'internet_access.for_customers']",0
+Capital Hotel,Cairo,Bhler Passage,31.23976825,30.04824275,"Capital Hotel, 1 Bhler Passage, Abdin, Cairo, 11513, Egypt","['accommodation', 'accommodation.hotel', 'building', 'building.accommodation']",0
+Capital Hotel,Cairo,Bhler Passage,31.23976825,30.04824275,"Capital Hotel, 1 Bhler Passage, Abdin, Cairo, 11513, Egypt","['accommodation', 'accommodation.hotel', 'building', 'building.accommodation']",0
+Car Cafe Club,Giza,Al Nil Street,31.2191696,30.0336558,"Car Cafe Club, Al Nil Street, Dokki, Giza, 12612, Egypt","['catering', 'catering.cafe']",0
+Carlito's Basaar - gifts & silver,Cairo,Street 9,31.2587944,29.9590658,"Carlito's Basaar - gifts & silver, 90 Street 9, Ma‘di Al Khahiri, Cairo, 11728, Egypt","['commercial', 'commercial.gift_and_souvenir']",0
+Carlton Roof Garden,Cairo,Al Borsa Street,31.24078965,30.05321105,"Carlton Roof Garden, Al Borsa Street, Al-Azbakeya, Cairo, 11574, Egypt","['catering', 'catering.restaurant']",0
+Cecil,South Sinai,Al Salam Street,32.71355569,29.58735135,"Cecil, 2 Al Salam Street, Ras Sudr, 46612, Egypt","['accommodation', 'accommodation.hotel', 'building', 'building.accommodation', 'internet_access']",0
+Central Cairo,Cairo,Sherif Pasha Street,31.2422026,30.0508356,"Central Cairo, 32 Sherif Pasha Street, Abdin, Cairo, 11513, Egypt","['accommodation', 'accommodation.hotel']",0
+Centro Cairo Hotel,Cairo,Sherif Pasha Street,31.2421843,30.0507737,"Centro Cairo Hotel, 32 Sherif Pasha Street, Abdin, Cairo, 11513, Egypt","['accommodation', 'accommodation.hotel']",0
+Centro Cairo Hotel,Cairo,Sherif Pasha Street,31.2421843,30.0507737,"Centro Cairo Hotel, 32 Sherif Pasha Street, Abdin, Cairo, 11513, Egypt","['accommodation', 'accommodation.hotel']",0
+Cheap Fish Restaurant,Aswan,Al Sheikh Ibrahim Street,32.8995387,24.0903892,"Cheap Fish Restaurant, Al Sheikh Ibrahim Street, Negm Al Din, 81511, Egypt","['catering', 'catering.restaurant']",0
+Chef Kahlil,Aswan,Saad Zaghloul Street,32.9015886,24.0985146,"Chef Kahlil, Saad Zaghloul Street, Saleh Gahin, 81521, Egypt","['catering', 'catering.restaurant']",0
+Cheops Pyramid In,Giza,Naser Alley,31.141299,29.9758937,"Cheops Pyramid In, Naser Alley, Kom al Akhdar, Giza, 12125, Egypt","['accommodation', 'accommodation.hotel']",0
+Cheops Pyramid In,Giza,Naser Alley,31.141299,29.9758937,"Cheops Pyramid In, Naser Alley, Kom al Akhdar, Giza, 12125, Egypt","['accommodation', 'accommodation.hotel']",0
+Chez Pascal,Red Sea,"Al Qusair, Marsa Aalam Road",34.642178,25.5212735,"Chez Pascal, Al Qusair, Marsa Aalam Road, Port Ghalib, Egypt","['catering', 'catering.restaurant']",0
+Chicha,Red Sea,Inas Al Deghedi Street,33.6752401,27.395828,"Chicha, Inas Al Deghedi Street, Gamsha, 84513, Egypt","['catering', 'catering.restaurant']",0
+Chicken Tikka,Cairo,Al Nasr Street,31.2845562,29.9761671,"Chicken Tikka, Al Nasr Street, Cairo, 11742, Egypt","['catering', 'catering.restaurant', 'catering.restaurant.chicken']",0
+Chicken War,Suez,"Suez, Ismailia Road",32.538518,29.9617969,"Chicken War, Suez, Ismailia Road, Suez, 43515, Egypt","['catering', 'catering.restaurant']",0
+Chili's,Cairo,6th October Bridge,31.2284666,30.0484834,"Chili's, 6th October Bridge, Al-Azbakeya, Cairo, 12344, Egypt","['catering', 'catering.restaurant', 'catering.restaurant.tex-mex']",0
+Chinese Dumpling Restaurant,Cairo,Street 233,31.2781404,29.9597874,"Chinese Dumpling Restaurant, Street 233, Cairo, 11431, Egypt","['catering', 'catering.restaurant', 'catering.restaurant.chinese']",0
+Choco chocola,Giza,Mohy Al Din Abou Al Ezz Street,31.1994338,30.046306,"Choco chocola, Mohy Al Din Abou Al Ezz Street, El Mohandesin, Giza, 12615, Egypt","['commercial', 'commercial.food_and_drink', 'commercial.food_and_drink.confectionery']",0
+Chop Chop - Far Eastern Cuisine,Giza,Ibn Kathir Street,31.2181103,30.0302239,"Chop Chop - Far Eastern Cuisine, Ibn Kathir Street, Dokki, Giza, 12612, Egypt","['catering', 'catering.restaurant', 'catering.restaurant.asian']",0
+Cilantro,Cairo,Street 9,31.2590322,29.958998,"Cilantro, 90 Street 9, Ma‘di Al Khahiri, Cairo, 11728, Egypt","['catering', 'catering.cafe', 'catering.cafe.coffee', 'catering.cafe.coffee_shop']",0
+Cilantro,Giza,Al Mesaha Square,31.2140749,30.0355328,"Cilantro, Al Mesaha Square, Dokki, Giza, 12612, Egypt","['catering', 'catering.restaurant']",0
+Cilantro,Cairo,Mohamed Mahmoud Street,31.2372471,30.0436079,"Cilantro, Mohamed Mahmoud Street, Bab al Luq, Cairo, 11513, Egypt","['catering', 'catering.cafe', 'catering.cafe.coffee', 'catering.cafe.coffee_shop', 'internet_access', 'internet_access.free']",0
+Cilantro,Giza,Al Markazy Axis,30.9449725,29.9761131,"Cilantro, Al Markazy Axis, 7th District, 6th of October, 12591, Egypt","['catering', 'catering.cafe', 'catering.cafe.coffee', 'catering.cafe.coffee_shop']",0
+Cilantro,Cairo,Al Nasr Street,31.2848546,29.9761865,"Cilantro, Al Nasr Street, Cairo, 11742, Egypt","['catering', 'catering.cafe']",0
+cinabon 2,Bani Sweif,Mohamed Shehata Al Zaeiry Street,31.0998175,29.0662564,"cinabon 2, Mohamed Shehata Al Zaeiry Street, Bani Ateya, 62513, Egypt","['commercial', 'commercial.food_and_drink', 'commercial.food_and_drink.confectionery']",0
+Cinema Tahrir,Giza,Al Tahrir Street,31.2145136,30.0391714,"Cinema Tahrir, Al Tahrir Street, Dokki, Giza, 12311, Egypt","['entertainment', 'entertainment.cinema']",0
+Cinnabon,Cairo,Sherif Pasha Street,31.24262964,30.0497179,"Cinnabon, 25 Sherif Pasha Street, Abdin, Cairo, 11513, Egypt","['building', 'building.catering', 'catering', 'catering.fast_food']",0
+Cinnabon,Cairo,Street 9,31.2595207,29.9583378,"Cinnabon, 84 Street 9, Ma‘di Al Khahiri, Cairo, 11728, Egypt","['catering', 'catering.fast_food']",0
+City Crepe,Giza,Abd Al Khalek Sarwat Street,30.9641363,29.9936283,"City Crepe, Abd Al Khalek Sarwat Street, Gardina Park valley, 6th of October, 12568, Egypt","['catering', 'catering.fast_food']",0
+City Hostel,Cairo,Al Gnena Street,31.2481125,30.0537395,"City Hostel, Al Gnena Street, Al-Azbakeya, Cairo, 11668, Egypt","['accommodation', 'accommodation.hotel']",0
+City Hostel,Cairo,Al Gnena Street,31.2481125,30.0537395,"City Hostel, Al Gnena Street, Al-Azbakeya, Cairo, 11668, Egypt","['accommodation', 'accommodation.hotel']",0
+Cleopatra Hotel,Cairo,Abd Al Salam Aref Street,31.2353548,30.0462969,"Cleopatra Hotel, Abd Al Salam Aref Street, Bab al Luq, Cairo, 11513, Egypt","['accommodation', 'accommodation.hotel', 'internet_access', 'internet_access.for_customers', 'wheelchair', 'wheelchair.limited']",0
+Cleopatra Hotel,Cairo,Abd Al Salam Aref Street,31.2353548,30.0462969,"Cleopatra Hotel, Abd Al Salam Aref Street, Bab al Luq, Cairo, 11513, Egypt","['accommodation', 'accommodation.hotel', 'internet_access', 'internet_access.for_customers', 'wheelchair', 'wheelchair.limited']",0
+Cleopatra’s Museum,Giza,Al Bahr Al Aazam Street,31.2155716,29.9975906,"Cleopatra’s Museum, Al Bahr Al Aazam Street, Giza, 12516, Egypt","['entertainment', 'entertainment.museum']",0
+Cock Door,Giza,Al Markazy Axis,30.9414017,29.9739365,"Cock Door, Al Markazy Axis, 8th District, 6th of October, 12591, Egypt","['catering', 'catering.fast_food']",0
+Coffeeshop Company,Cairo,Al Nasr Street,31.2842284,29.975712,"Coffeeshop Company, Al Nasr Street, Cairo, 11742, Egypt","['catering', 'catering.cafe', 'catering.cafe.coffee', 'catering.cafe.coffee_shop']",0
+Coffeeshop Company,Cairo,Al Ahram Street,31.3231629,30.0921141,"Coffee Shop Company, 25 Al Ahram Street, Heliopolis, Cairo, 11737, Egypt","['catering', 'catering.cafe', 'catering.cafe.coffee', 'catering.cafe.coffee_shop']",0
+Conrad Cairo,Cairo,Al Matbaah Al Amireh Street,31.22819205,30.0654238,"Conrad Cairo, 1191 Al Matbaah Al Amireh Street, Al-Sabtiyya, Cairo, 11221, Egypt","['accommodation', 'accommodation.hotel', 'building', 'building.accommodation', 'internet_access', 'internet_access.free', 'wheelchair', 'wheelchair.yes']",50
+Conrad Cairo,Cairo,Al Matbaah Al Amireh Street,31.22819205,30.0654238,"Conrad Cairo, 1191 Al Matbaah Al Amireh Street, Al-Sabtiyya, Cairo, 11221, Egypt","['accommodation', 'accommodation.hotel', 'building', 'building.accommodation', 'internet_access', 'internet_access.free', 'wheelchair', 'wheelchair.yes']",50
+Continental Hotel (OLD),Cairo,Continental Passage,31.24633371,30.05180315,"Continental Hotel (OLD), Continental Passage, Al-Azbakeya, Cairo, 11574, Egypt","['accommodation', 'accommodation.hotel']",0
+Continental Hotel (OLD),Cairo,Continental Passage,31.24633371,30.05180315,"Continental Hotel (OLD), Continental Passage, Al-Azbakeya, Cairo, 11574, Egypt","['accommodation', 'accommodation.hotel']",0
+Cook Door,Suez,"Suez, Ain Sokhna Road",32.3410469,29.6948382,"Cook Door, Suez, Ain Sokhna Road, New Suez, Egypt","['catering', 'catering.fast_food']",0
+Cook Door,Suez,"Suez, Ain Sokhna Road",32.3410469,29.6948382,"Cook Door, Suez, Ain Sokhna Road, New Suez, Egypt","['catering', 'catering.fast_food']",0
+Cook Door;KFC,Cairo,Ismailia Road,31.7227417,30.2416985,"Cook Door;KFC, Ismailia Road, Cairo, 44629, Egypt","['catering', 'catering.fast_food']",0
+Cordoba Cafee,Eastern,Omar Ibn Al Khatab Street,31.7542756,30.3070709,"Cordoba Cafee, Omar Ibn Al Khatab Street, 63, 10th of Ramadan, 44629, Egypt","['catering', 'catering.cafe']",0
+Cosmopolitan Hotel,Cairo,Abou Bakr Khairat Street,31.2403433,30.047706,"Cosmopolitan Hotel, Abou Bakr Khairat Street, Bab al Luq, Cairo, 42801, Egypt","['accommodation', 'accommodation.hotel']",0
+Cosmopolitan Hotel,Cairo,Abou Bakr Khairat Street,31.2403433,30.047706,"Cosmopolitan Hotel, Abou Bakr Khairat Street, Bab al Luq, Cairo, 42801, Egypt","['accommodation', 'accommodation.hotel']",0
+Costa,Cairo,Sherif Pasha Street,31.2421766,30.0490794,"Costa Coffee, Sherif Pasha Street, Bab al Luq, Cairo, 42801, Egypt","['catering', 'catering.cafe', 'catering.cafe.coffee', 'catering.cafe.coffee_shop']",0
+Costa,Cairo,Street 250,31.26963114,29.965631,"Costa, Street 250, Cairo, 11431, Egypt","['building', 'building.catering', 'catering', 'catering.cafe', 'catering.cafe.coffee', 'catering.cafe.coffee_shop', 'internet_access']",0
+Costa,Cairo,Street 9,31.2607498,29.9570511,"Costa, 75 Street 9, Ma‘di Al Khahiri, Cairo, 11728, Egypt","['catering', 'catering.cafe', 'catering.cafe.coffee', 'catering.cafe.coffee_shop', 'internet_access']",0
+Costa,Giza,Masdaq Street,31.2057313,30.0397215,"Costa, Masdaq Street, Dokki, Giza, 12311, Egypt","['catering', 'catering.cafe', 'catering.cafe.coffee', 'catering.cafe.coffee_shop']",0
+Costa,Cairo,Ahmed Heshmat Street,31.2216124,30.0651553,"Costa, Ahmed Heshmat Street, Al-Sabtiyya, 11568, Egypt","['catering', 'catering.cafe', 'catering.cafe.coffee', 'catering.cafe.coffee_shop']",0
+Costa Cafe,Cairo,Hassn Al Gazzar Street,31.355678,30.0688572,"Costa Cafe, Hassn Al Gazzar Street, Cairo, 11391, Egypt","['catering', 'catering.cafe', 'catering.cafe.coffee', 'catering.cafe.coffee_shop']",0
+Costa Coffee,Cairo,Al Sayed Al Marghany Street,31.3157294,30.0904002,"Costa Coffee, Al Sayed Al Marghany Street, Al-Zaitoun, Cairo, 11737, Egypt","['catering', 'catering.cafe']",0
+Crafted Home كرافتيد هوم,Cairo,Adly Street,31.2427244,30.0510189,"Crafted Home كرافتيد هوم, 26 Adly Street, Abdin, Cairo, 11518, Egypt","['building', 'building.catering', 'catering', 'catering.cafe', 'catering.cafe.coffee', 'catering.cafe.coffee_shop', 'internet_access', 'internet_access.free']",0
+Crocodile Museum,Aswan,Grande Cour,32.92768935,24.4530467,"Crocodile Museum, Grande Cour, Koum Ombo City, 81611, Egypt","['building', 'building.tourism', 'entertainment', 'entertainment.museum']",0
+Crown Central,Giza,Moustafa Abd Al Samei Street,31.0521072,29.9946958,"Crown Central, 2 Moustafa Abd Al Samei Street, Ash Sheikh Zayed, 12573, Egypt","['catering', 'catering.cafe']",0
+Crown Hotel,Cairo,Gawad Hosny Street,31.2432594,30.0485916,"Crown Hotel, 16 Gawad Hosny Street, Bab al Luq, Cairo, 42801, Egypt","['accommodation', 'accommodation.hotel', 'internet_access']",0
+Crown Hotel,Cairo,Gawad Hosny Street,31.2432594,30.0485916,"Crown Hotel, 16 Gawad Hosny Street, Bab al Luq, Cairo, 42801, Egypt","['accommodation', 'accommodation.hotel', 'internet_access']",0
+Crumbs cupcakes & more,Cairo,Street 9,31.2597821,29.958034,"Crumbs cupcakes & more, 82 Street 9, Ma‘di Al Khahiri, Cairo, 11728, Egypt","['catering', 'catering.cafe', 'commercial', 'commercial.food_and_drink', 'commercial.food_and_drink.confectionery', 'internet_access', 'internet_access.free']",0
+Crumbs cupcakes & more,Cairo,Street 9,31.2597821,29.958034,"Crumbs cupcakes & more, 82 Street 9, Ma‘di Al Khahiri, Cairo, 11728, Egypt","['catering', 'catering.cafe', 'commercial', 'commercial.food_and_drink', 'commercial.food_and_drink.confectionery', 'internet_access', 'internet_access.free']",0
+Cuffichino,Cairo,Al Mostashfa Al Yonany Street,31.28021532,30.06435565,"Cuffichino, Al Mostashfa Al Yonany Street, Cairo, 11535, Egypt","['building', 'building.catering', 'catering', 'catering.cafe']",0
+Daily Dose,Red Sea,Ahmed Ragab Street,33.6754218,27.4068845,"Daily Dose, Ahmed Ragab Street, Gamsha, 84513, Egypt","['catering', 'catering.cafe']",0
+Delicious felafel,Red Sea,Al Malek Seoud Street,33.075595,28.3554165,"Delicious felafel, Al Malek Seoud Street, Gharib Cape, 84715, Egypt","['catering', 'catering.restaurant']",0
+Delight sweet house,Cairo,Street 250,31.26998,29.959264,"Delight sweet house, Street 250, Ma‘di, Cairo, 11431, Egypt","['catering', 'catering.cafe']",0
+Didos Al Dente,Cairo,Bahgat Ali Street,31.2194106,30.0687987,"Didos Al Dente, Bahgat Ali Street, Al-Sabtiyya, 12653, Egypt","['catering', 'catering.restaurant']",0
+Dishes,Cairo,Street 206,31.2755092,29.9620871,"Dishes, Street 206, Cairo, 11431, Egypt","['catering', 'catering.restaurant']",0
+Divino,Red Sea,"Al Qusair, Marsa Aalam Road",34.6349425,25.5339225,"Divino, Al Qusair, Marsa Aalam Road, Port Ghalib, Egypt","['catering', 'catering.restaurant']",0
+Dolce Vita Restaurant,Red Sea,"Al Qusair, Marsa Aalam Road",34.7441291,25.3241,"Dolce Vita Restaurant, Al Qusair, Marsa Aalam Road, Egypt","['catering', 'catering.restaurant']",0
+Dolphin,South Sinai,Al Mostashfa Street,32.7133353,29.5876998,"Dolphin, 4 Al Mostashfa Street, Ras Sudr, 46612, Egypt","['accommodation', 'accommodation.hotel', 'building', 'building.accommodation', 'internet_access']",0
+Domino's,Giza,Al Markazy Axis,30.9392372,29.9726258,"Domino's Pizza, Al Markazy Axis, 8th District, 6th of October, 12591, Egypt","['catering', 'catering.fast_food', 'catering.fast_food.pizza']",0
+Don Vito,Red Sea,"Hurghada, Ismailia Road",33.7187068,27.3124333,"Don Vito, Hurghada, Ismailia Road, Al Ahia', 84509, Egypt","['catering', 'catering.restaurant', 'catering.restaurant.italian']",0
+Down The Bridge Cafe,Cairo,Abou Bakr Al Sedik Street,31.3387065,30.0970602,"Down The Bridge Cafe, Abou Bakr Al Sedik Street, Heliopolis, Cairo, 11736, Egypt","['catering', 'catering.cafe']",0
+Dragon House,Cairo,Street 82,31.2596408,29.9566627,"Dragon House, Street 82, Ma‘di Al Khahiri, Cairo, 11728, Egypt","['catering', 'catering.restaurant']",0
+Drinkies,Cairo,Street 9,31.2594124,29.9582312,"Drinkies, 84 Street 9, Ma‘di Al Khahiri, Cairo, 11728, Egypt","['commercial', 'commercial.food_and_drink', 'commercial.food_and_drink.drinks']",0
+Drinkies,Luxor,Ramsis Street,32.6445095,25.6963037,"Drinkies, Ramsis Street, Luxor City, Luxor, 85951, Egypt","['commercial', 'commercial.food_and_drink', 'commercial.food_and_drink.drinks']",0
+Drinkies,Luxor,Ramsis Street,32.6445095,25.6963037,"Drinkies, Ramsis Street, Luxor City, Luxor, 85951, Egypt","['commercial', 'commercial.food_and_drink', 'commercial.food_and_drink.drinks']",0
+Drinkies - The beverage shop,Cairo,Moustafa Kamel Street,31.2604426,29.9589413,"Drinkies - The beverage shop, Moustafa Kamel Street, Ma‘di Al Khahiri, Cairo, 11728, Egypt","['commercial', 'commercial.food_and_drink', 'commercial.food_and_drink.drinks']",0
+Dukes,Giza,Masdaq Street,31.2036092,30.0388869,"Dukes, Masdaq Street, Dokki, Cairo, 12311, Egypt","['commercial', 'commercial.food_and_drink', 'commercial.food_and_drink.bakery']",0
+Dunkin',Cairo,Street 9,31.2617692,29.9552262,"Dunkin', Street 9, Ma‘di Al Khahiri, Cairo, 11431, Egypt","['catering', 'catering.fast_food']",0
+Dunkin' Donuts,Giza,Surya Street,31.1965933,30.0528389,"Dunkin' Donuts, Surya Street, El Mohandesin, Cairo, 13211, Egypt","['commercial', 'commercial.food_and_drink', 'commercial.food_and_drink.confectionery']",0
+DUO,Cairo,Othman Ibn Affan Street,31.3486723,30.1038226,"DUO, Othman Ibn Affan Street, Al-Helmeya, Cairo, 11361, Egypt","['catering', 'catering.restaurant']",0
+Egypt Free Shop,Aswan,Kornish Al Nile Street,32.8918867,24.085859,"Egypt Free Shop, Kornish Al Nile Street, Abd Al Aazim Hassn, 81511, Egypt","['commercial', 'commercial.food_and_drink', 'commercial.food_and_drink.drinks']",0
+Egypt Papyrus Institute,Giza,Abou Al Houl Al Syahi Street,31.1410582,29.9859937,"Egypt Papyrus Institute, 1 Abou Al Houl Al Syahi Street, Kom al Akhdar, Remaya Square, 12512, Egypt","['commercial', 'commercial.gift_and_souvenir']",0
+Eileen Hotel Cairo,Cairo,Youssef Al Gendy Street,31.2394293,30.0459882,"Eileen Hotel Cairo, 21 Youssef Al Gendy Street, Abdin, Cairo, 11513, Egypt","['accommodation', 'accommodation.hotel']",0
+Eileen Hotel Cairo,Cairo,Youssef Al Gendy Street,31.2394293,30.0459882,"Eileen Hotel Cairo, 21 Youssef Al Gendy Street, Abdin, Cairo, 11513, Egypt","['accommodation', 'accommodation.hotel']",0
+El Askary,Giza,Teraa Al Helw Street,31.1489822,29.9862077,"El Askary, Teraa Al Helw Street, Kom al Akhdar, Giza, 12557, Egypt","['commercial', 'commercial.food_and_drink', 'commercial.food_and_drink.drinks']",0
+El Ezba,Giza,"Shabramant, Monsha'et Dahshur Road",31.1963346,29.9377523,"El Ezba, Shabramant, Monsha'et Dahshur Road, Shabramant, 12947, Egypt","['catering', 'catering.restaurant']",0
+El Hag Abdo Butcher,Cairo,Street 9,31.2640887,29.9526423,"El Hag Abdo Butcher, Street 9, Ma‘di Al Khahiri, Cairo, 11431, Egypt","['commercial', 'commercial.food_and_drink', 'commercial.food_and_drink.butcher']",0
+El jokka,Aswan,Mahata Al Meyah Road,32.8846993,24.082727,"El Dokka, Mahata Al Meyah Road, Taqouk Mountain, 81529, Egypt","['catering', 'catering.restaurant', 'catering.restaurant.regional']",0
+El Khan,Red Sea,"Al Qusair, Marsa Aalam Road",34.7896257,25.2533666,"El Khan, Al Qusair, Marsa Aalam Road, Egypt","['catering', 'catering.restaurant', 'catering.restaurant.oriental']",0
+El Mansy - المنسى,South Sinai,Al Salam Street,32.7137084,29.5871351,"El Mansy - المنسى, 1 Al Salam Street, Ras Sudr, 46612, Egypt","['catering', 'catering.cafe', 'catering.cafe.coffee', 'catering.cafe.coffee_shop', 'internet_access', 'internet_access.free']",0
+El Menofy,Cairo,The Ring Road,31.3204724,29.9836998,"El Menofy, The Ring Road, Cairo, 11771, Egypt","['catering', 'catering.restaurant']",0
+El Salam,South Sinai,"Ras Sedr, Al Tour Road",32.7212177,29.5899468,"El Salam, Ras Sedr, Al Tour Road, Ras Sudr, 46612, Egypt","['catering', 'catering.cafe', 'catering.cafe.coffee', 'catering.cafe.coffee_shop']",0
+El Salam Restaurant,Aswan,Saad Zaghloul Street,32.9015573,24.098892,"El Salam Restaurant, Saad Zaghloul Street, Saleh Gahin, 81521, Egypt","['catering', 'catering.restaurant']",0
+El Sayadeen,Red Sea,MariLu Street,33.6864726,27.3921071,"El Sayadeen, MariLu Street, Gamsha, 84513, Egypt","['catering', 'catering.restaurant']",0
+El Shawesh,Aswan,Medan Al Kaysareya Street,32.8973521,24.0911723,"El Shawesh, Medan Al Kaysareya Street, Othman Ahmed Ibrahim, 81511, Egypt","['catering', 'catering.restaurant', 'catering.restaurant.regional']",0
+El swesy seafood restaurant-مطعم اسماك السويسي,Suez,23rd July Street,32.5563724,29.9639332,"El swesy seafood restaurant-مطعم اسماك السويسي, 298 23rd July Street, Suez, 43511, Egypt","['catering', 'catering.restaurant']",0
+El Wensh,Aswan,Fandq Al Safa Street,32.9017634,24.1014135,"El Wensh, Fandq Al Safa Street, Saleh Gahin, 81543, Egypt","['catering', 'catering.fast_food']",0
+El Zahraa Cafe,Cairo,Al Mashhd Al Husseiny Street,31.2625099,30.0472905,"El Zahraa Cafe, Al Mashhd Al Husseiny Street, Islamic Cairo, Cairo, 11261, Egypt","['catering', 'catering.restaurant', 'internet_access']",0
+El-Negoom Hotel,New Valley,"Al Aouina, Al Hendawy Road",28.9803662,25.4991704,"El-Negoom Hotel, Al Aouina, Al Hendawy Road, Mut, 72711, Egypt","['accommodation', 'accommodation.hotel']",0
+El-Negoom Hotel,New Valley,"Al Aouina, Al Hendawy Road",28.9803662,25.4991704,"El-Negoom Hotel, Al Aouina, Al Hendawy Road, Mut, 72711, Egypt","['accommodation', 'accommodation.hotel']",0
+Elsayad Bakery,Cairo,Street 9,31.2642341,29.9525363,"Elsayad Bakery, Street 9, Ma‘di Al Khahiri, Cairo, 11431, Egypt","['commercial', 'commercial.food_and_drink', 'commercial.food_and_drink.bakery']",0
+ElTahrir K.o.s.h.a.r.y,Cairo,Al Nasr Street,31.2845333,29.9757637,"ElTahrir K.o.s.h.a.r.y, Al Nasr Street, Cairo, 11742, Egypt","['catering', 'catering.fast_food']",0
+ElWahy,Cairo,Street 9,31.2641602,29.9525882,"ElWahy, Street 9, Ma‘di Al Khahiri, Cairo, 11431, Egypt","['catering', 'catering.fast_food', 'vegan', 'vegetarian']",0
+Empress Show Lounge,Cairo,26th July Street,31.22512825,30.0580938,"Empress Show Lounge, 26th July Street, Al-Sabtiyya, 11211, Egypt","['building', 'building.catering', 'catering', 'catering.restaurant']",0
+Entrance to the Grand Egyptian Museum,Giza,"Cairo, Alexandria Desert Road",31.12245279,29.99346095,"Entrance to the Grand Egyptian Museum, Cairo, Alexandria Desert Road, Remaya Square, 12556, Egypt","['building', 'building.tourism', 'entertainment', 'entertainment.museum']",0
+Eplis,Aswan,"Cairo, Aswan Eastern Desert Road",32.891612,24.1324066,"Eplis, Cairo, Aswan Eastern Desert Road, Aswan, 81543, Egypt","['catering', 'catering.cafe']",0
+Espresso lab,Cairo,Street 213,31.2768049,29.9603487,"Espresso lab, 23 Street 213, Cairo, 11431, Egypt","['catering', 'catering.cafe', 'internet_access']",0
+Exception Cafe,Giza,Al Haram Street,31.1415058,29.9871491,"Exception Cafe, 1 Al Haram Street, Kom al Akhdar, Remaya Square, 12512, Egypt","['catering', 'catering.cafe']",0
+Fair Trade Egypt,Cairo,Street 205,31.2738554,29.9548307,"Fair Trade Egypt, 12 Street 205, Cairo, 11431, Egypt","['commercial', 'commercial.gift_and_souvenir']",0
+"Fairmont Nile City Hotel, Cairo",Cairo,Kornish Al Nil Street,31.22787669,30.0719545,"Fairmont Nile City Hotel, Cairo, Kornish Al Nil Street, Al-Sabtiyya, Cairo, 11624, Egypt","['accommodation', 'accommodation.hotel', 'building', 'building.accommodation', 'internet_access', 'internet_access.free', 'wheelchair', 'wheelchair.yes']",0
+"Fairmont Nile City Hotel, Cairo",Cairo,Kornish Al Nil Street,31.22787669,30.0719545,"Fairmont Nile City Hotel, Cairo, Kornish Al Nil Street, Al-Sabtiyya, Cairo, 11624, Egypt","['accommodation', 'accommodation.hotel', 'building', 'building.accommodation', 'internet_access', 'internet_access.free', 'wheelchair', 'wheelchair.yes']",0
+Falafel,Aswan,"Al Sad Al Aali, Aswan Road",32.8539651,23.9808867,"Falafel, Al Sad Al Aali, Aswan Road, Sahara City, Egypt","['catering', 'catering.fast_food']",0
+Falafel & Foul,Suez,Hoda Shaarawy Street,32.5576452,29.9642347,"Falafel & Foul, Hoda Shaarawy Street, Suez, 43511, Egypt","['catering', 'catering.fast_food']",0
+family palace hotel,Cairo,B Tech Passage,31.24451553,30.0521705,"family palace hotel, B Tech Passage, Al-Azbakeya, Cairo, 11574, Egypt","['accommodation', 'accommodation.hotel', 'building', 'building.accommodation', 'building.residential']",0
+family palace hotel,Cairo,B Tech Passage,31.24451553,30.0521705,"family palace hotel, B Tech Passage, Al-Azbakeya, Cairo, 11574, Egypt","['accommodation', 'accommodation.hotel', 'building', 'building.accommodation', 'building.residential']",0
+Fatatri At Tahrir,Cairo,Al Tahrir Street,31.2374168,30.0443809,"Fatatri At Tahrir, 2 Al Tahrir Street, Abdin, Cairo, 11513, Egypt","['building', 'building.catering', 'catering', 'catering.restaurant', 'catering.restaurant.regional']",0
+Fish and Grill Ayoub,Suez,"Ain Sokhna, Al Zaafarana Road",32.62608782,29.23193235,"Fish and Grill Ayoub, Ain Sokhna, Al Zaafarana Road, Mountain View Sokhna 1, Egypt","['building', 'building.catering', 'catering', 'catering.fast_food', 'catering.fast_food.sandwich']",0
+Fisherman's hut,Red Sea,"Safaga, Al Qusair Road",34.25070252,26.1518752,"Fisherman's hut, Safaga, Al Qusair Road, Al Qusair City, 84712, Egypt","['building', 'building.catering', 'catering', 'catering.restaurant']",0
+Floating Restaurant - El Mabrouka,Aswan,Kornish Al Nile Street,32.8930888,24.088374,"Floating Restaurant - El Mabrouka, Kornish Al Nile Street, Abd Al Aazim Hassn, 81543, Egypt","['catering', 'catering.restaurant']",0
+flower cotton,Giza,Mounir Ibrahim Street,31.1437789,29.9852334,"flower cotton, Mounir Ibrahim Street, Kom al Akhdar, Remaya Square, 12512, Egypt","['commercial', 'commercial.gift_and_souvenir']",0
+flower cotton,Giza,Lamis Al Gazar Street,31.1439574,29.9849421,"flower cotton, Lamis Al Gazar Street, Kom al Akhdar, Remaya Square, 12512, Egypt","['commercial', 'commercial.gift_and_souvenir']",0
+Food Garden,Cairo,Street 9,31.2595128,29.9588103,"Food Garden, Street 9, Ma‘di Al Khahiri, Cairo, 11728, Egypt","['commercial', 'commercial.food_and_drink', 'commercial.food_and_drink.fruit_and_vegetable']",0
+Freedom Hostel (Good address),Cairo,Bank Masr Street,31.2426495,30.0483467,"Freedom Hostel (Good address), Bank Masr Street, Bab al Luq, Cairo, 42801, Egypt","['accommodation', 'accommodation.hotel']",0
+Freedom Hostel (Good address),Cairo,Bank Masr Street,31.2426495,30.0483467,"Freedom Hostel (Good address), Bank Masr Street, Bab al Luq, Cairo, 42801, Egypt","['accommodation', 'accommodation.hotel']",0
+Fresh orange juice,Luxor,Saad Zaghloul Street,32.6436486,25.6972032,"Fresh orange juice, Saad Zaghloul Street, Luxor City, Luxor, 85951, Egypt","['commercial', 'commercial.food_and_drink', 'commercial.food_and_drink.drinks']",0
+Fresh orange juice,Luxor,Saad Zaghloul Street,32.6436486,25.6972032,"Fresh orange juice, Saad Zaghloul Street, Luxor City, Luxor, 85951, Egypt","['commercial', 'commercial.food_and_drink', 'commercial.food_and_drink.drinks']",0
+Fruit & Vegetable Stall,Giza,Al Mahrousa Street,31.205314,30.0648175,"Fruit & Vegetable Stall, Al Mahrousa Street, Meet Okba, Giza, 12658, Egypt","['commercial', 'commercial.food_and_drink', 'commercial.food_and_drink.fruit_and_vegetable']",0
+Fruit juices,Aswan,Kornish Al Nile Street,32.8942025,24.0888877,"Fruit juices, Kornish Al Nile Street, Abd Al Aazim Hassn, 81511, Egypt","['commercial', 'commercial.food_and_drink', 'commercial.food_and_drink.drinks']",0
+fruit palace,Giza,Al Metemedeya Street,31.1856637,30.0533427,"fruit palace, Al Metemedeya Street, Meet Oqba, Giza, 12827, Egypt","['catering', 'catering.fast_food']",0
+Ful Cart,Giza,Al Mahrousa Street,31.2051316,30.0649034,"Ful Cart, Al Mahrousa Street, Meet Okba, Giza, 12658, Egypt","['catering', 'catering.fast_food']",0
+Fusion Resturant,Giza,Al Hosny Street,31.1926999,30.0625599,"Fusion Resturant, Al Hosny Street, Meet Oqba, Giza, 12657, Egypt","['catering', 'catering.restaurant']",0
+Gaddis,Luxor,Kornish Al Nile Street,32.637564,25.6975908,"Gaddis, Kornish Al Nile Street, Luxor City, Luxor, 85951, Egypt","['commercial', 'commercial.gift_and_souvenir']",0
+Gaddis,Luxor,Kornish Al Nile Street,32.637564,25.6975908,"Gaddis, Kornish Al Nile Street, Luxor City, Luxor, 85951, Egypt","['commercial', 'commercial.gift_and_souvenir']",0
+Galaxy Cinema,Cairo,Abd Al Aziz Al Seoud Street,31.2231082,30.0176442,"Galaxy Cinema, Abd Al Aziz Al Seoud Street, Al Manyal, Cairo, 11555, Egypt","['building', 'building.entertainment', 'entertainment', 'entertainment.cinema']",0
+Gallery Cafe,Eastern,Abd Allah Ibn Masoud Street,31.4884799,30.5905714,"Gallery Cafe, 8 Abd Allah Ibn Masoud Street, Al Zaqaziq, 44519, Egypt","['catering', 'catering.cafe', 'internet_access', 'internet_access.free']",0
+Gamalat House,Aswan,Street 6,32.8625301,24.0597117,"Gamalat House, Street 6, Nagaa Al Mahata, 81531, Egypt","['catering', 'catering.cafe']",0
+Gamberini,Red Sea,"Al Qusair, Marsa Aalam Road",34.8015611,25.2182435,"Gamberini, Al Qusair, Marsa Aalam Road, Egypt","['catering', 'catering.restaurant', 'catering.restaurant.fish']",0
+Gandoufly,Giza,El khazzan Street,31.0892415,29.9550862,"Gandoufly, El khazzan Street, Giza, 12587, Egypt","['commercial', 'commercial.food_and_drink', 'commercial.food_and_drink.seafood']",0
+Gawharet Al Ahram Hotel,Giza,Om Al Abtaal Square,31.15443361,29.9912609,"Gawharet Al Ahram Hotel, Om Al Abtaal Square, Kom al Akhdar, Giza, 12574, Egypt","['accommodation', 'accommodation.hotel', 'building', 'building.accommodation']",0
+Gawharet Al Ahram Hotel,Giza,Om Al Abtaal Square,31.15443361,29.9912609,"Gawharet Al Ahram Hotel, Om Al Abtaal Square, Kom al Akhdar, Giza, 12574, Egypt","['accommodation', 'accommodation.hotel', 'building', 'building.accommodation']",0
+Giza palace,Giza,Side 26th of July Axis,31.002796,30.0179382,"Giza palace, Side 26th of July Axis, El Nada Compound, 12573, Egypt","['accommodation', 'accommodation.hotel']",0
+Giza palace,Giza,Side 26th of July Axis,31.002796,30.0179382,"Giza palace, Side 26th of July Axis, El Nada Compound, 12573, Egypt","['accommodation', 'accommodation.hotel']",0
+Golden Tulip Hotel October,Giza,Side Zewil Street,31.0530119,29.9481384,"Golden Tulip Hotel October, Side Zewil Street, Al Fardous City, 6th of October, 12578, Egypt","['accommodation', 'accommodation.hotel', 'internet_access', 'internet_access.free']",0
+Golden Tulip Hotel October,Giza,Side Zewil Street,31.0530119,29.9481384,"Golden Tulip Hotel October, Side Zewil Street, Al Fardous City, 6th of October, 12578, Egypt","['accommodation', 'accommodation.hotel', 'internet_access', 'internet_access.free']",0
+Grand Cafe,Cairo,Kornish Al Nil Street,31.2525585,29.9555574,"Grand Cafe, Kornish Al Nil Street, Al-Maasara, Cairo, 11917, Egypt","['catering', 'catering.restaurant']",0
+Grand Cafe,Red Sea,"Al Qusair, Marsa Aalam Road",34.635243,25.533852,"Grand Cafe, Al Qusair, Marsa Aalam Road, Port Ghalib, Egypt","['catering', 'catering.cafe']",0
+Grease,Red Sea,"Hurghada, Ismailia Road",33.7168725,27.3111775,"Grease, Hurghada, Ismailia Road, Al Ahia', 84509, Egypt","['catering', 'catering.fast_food']",0
+Green Sudr Resort,South Sinai,"Ras Sedr, Al Tour Road",32.7524236,29.4524985,"Green Sudr Resort, Ras Sedr, Al Tour Road, Ras Sudr, Egypt","['accommodation', 'accommodation.hotel']",0
+Gresham,Cairo,Maarouf Street,31.23927728,30.049118,"Gresham, Maarouf Street, Bab al Luq, Cairo, 11956, Egypt","['accommodation', 'accommodation.hotel', 'building', 'building.accommodation']",0
+Gresham,Cairo,Maarouf Street,31.23927728,30.049118,"Gresham, Maarouf Street, Bab al Luq, Cairo, 11956, Egypt","['accommodation', 'accommodation.hotel', 'building', 'building.accommodation']",0
+Gresham Hotel,Cairo,Talaat Harb Street,31.2387148,30.0485745,"Gresham Hotel, 22 Talaat Harb Street, Bab al Luq, Cairo, 11519, Egypt","['accommodation', 'accommodation.hotel', 'internet_access', 'internet_access.free']",0
+Gresham Hotel,Cairo,Talaat Harb Street,31.2387148,30.0485745,"Gresham Hotel, 22 Talaat Harb Street, Bab al Luq, Cairo, 11519, Egypt","['accommodation', 'accommodation.hotel', 'internet_access', 'internet_access.free']",0
+Griix,Cairo,Street 231,31.2767748,29.9615956,"Griix, 38 Street 231, Cairo, 11728, Egypt","['catering', 'catering.restaurant', 'catering.restaurant.greek']",0
+Gringos,Cairo,Street 231,31.2767621,29.9626884,"Gringos, Street 231, Cairo, 11431, Egypt","['catering', 'catering.fast_food']",0
+Habiba Gallery,Luxor,Andraws Basha Street,32.6413909,25.7002036,"Habiba Gallery, 3 Andraws Basha Street, Luxor City, Luxor, 85951, Egypt","['commercial', 'commercial.gift_and_souvenir']",0
+Habiba Gallery,Luxor,Andraws Basha Street,32.6413909,25.7002036,"Habiba Gallery, 3 Andraws Basha Street, Luxor City, Luxor, 85951, Egypt","['commercial', 'commercial.gift_and_souvenir']",0
+Hamed for drinking,Cairo,Street 9,31.2602861,29.9572971,"Hamed for drinking, Street 9, Ma‘di Al Khahiri, Cairo, 11728, Egypt","['commercial', 'commercial.food_and_drink', 'commercial.food_and_drink.drinks']",0
+Hameed,Giza,Side 26th of July Axis,30.99205628,30.00805875,"Hameed, Side 26th of July Axis, El Nada Compound, 12573, Egypt","['building', 'building.catering', 'catering', 'catering.fast_food', 'catering.fast_food.burger']",0
+Hameed,Giza,Side 26th of July Axis,30.99145295,30.0079082,"Hameed, Side 26th of July Axis, El Nada Compound, 12573, Egypt","['building', 'building.catering', 'catering', 'catering.fast_food', 'catering.fast_food.burger']",0
+Happy Land Hotel,Aswan,"Cairo, Aswan Eastern Desert Road",32.8895655,24.9906178,"Happy Land Hotel, Cairo, Aswan Eastern Desert Road, Idfu City, 81644, Egypt","['accommodation', 'accommodation.hotel']",0
+Har,Cairo,Al Nasr Street,31.2844897,29.9761452,"Har, Al Nasr Street, Cairo, 11742, Egypt","['catering', 'catering.fast_food', 'catering.fast_food.pizza']",0
+Hardee's,Cairo,Hafez Ramadan Street,31.3446134,30.0680454,"Hardees, Hafez Ramadan Street, Cairo, 11391, Egypt","['catering', 'catering.fast_food', 'catering.fast_food.burger']",0
+Hardee's,Cairo,Mansheyah Al Tayaran Street,31.3089936,30.0868991,"Hardees, Mansheyah Al Tayaran Street, Al-Zaitoun, Cairo, 11774, Egypt","['catering', 'catering.fast_food', 'catering.fast_food.burger']",0
+Hardee's,Cairo,Al Nasr Street,31.284407,29.9761651,"Hardee's, Al Nasr Street, Cairo, 11742, Egypt","['catering', 'catering.fast_food', 'catering.fast_food.burger']",0
+hash café londonessence,Cairo,Mohamed Badr Street,31.2874328,29.9767763,"hash café londonessence, Mohamed Badr Street, Cairo, 11742, Egypt","['catering', 'catering.cafe']",0
+Hassan Fathy Theatre,Luxor,Tamthal Mamnoon Street,32.62239359,25.71545765,"Hassan Fathy Theatre, Tamthal Mamnoon Street, Al Baairat Village, 85958, Egypt","['building', 'building.entertainment', 'entertainment', 'entertainment.culture', 'entertainment.culture.theatre']",0
+Hassan Fathy Theatre,Luxor,Tamthal Mamnoon Street,32.62239359,25.71545765,"Hassan Fathy Theatre, Tamthal Mamnoon Street, Al Baairat Village, 85958, Egypt","['building', 'building.entertainment', 'entertainment', 'entertainment.culture', 'entertainment.culture.theatre']",0
+Hayat,Giza,Al Afdal Street,31.1413339,29.9753361,"Hayat, Al Afdal Street, Nazlet al Batran, Giza, 12125, Egypt","['accommodation', 'accommodation.hotel']",0
+Hayat,Giza,Al Afdal Street,31.1413339,29.9753361,"Hayat, Al Afdal Street, Nazlet al Batran, Giza, 12125, Egypt","['accommodation', 'accommodation.hotel']",0
+Hilton Cairo Zamalek Residences,Cairo,Mohamed Mazhar Street,31.22270627,30.06799785,"Hilton Cairo Zamalek Residences, 21 Mohamed Mazhar Street, Al-Sabtiyya, 11211, Egypt","['accommodation', 'accommodation.hotel', 'building', 'building.accommodation', 'internet_access', 'internet_access.free', 'wheelchair', 'wheelchair.yes']",0
+Hilton Cairo Zamalek Residences,Cairo,Mohamed Mazhar Street,31.22270627,30.06799785,"Hilton Cairo Zamalek Residences, 21 Mohamed Mazhar Street, Al-Sabtiyya, 11211, Egypt","['accommodation', 'accommodation.hotel', 'building', 'building.accommodation', 'internet_access', 'internet_access.free', 'wheelchair', 'wheelchair.yes']",0
+Hilton Pyramids Golf,Giza,Al Wahat Road,31.04439972,29.96299995,"Hilton Pyramids Golf, Al Wahat Road, Gardina Park valley, 6th of October, 12585, Egypt","['accommodation', 'accommodation.hotel', 'internet_access', 'wheelchair', 'wheelchair.yes']",0
+Hilton Pyramids Golf,Giza,Al Wahat Road,31.04439972,29.96299995,"Hilton Pyramids Golf, Al Wahat Road, Gardina Park valley, 6th of October, 12585, Egypt","['accommodation', 'accommodation.hotel', 'internet_access', 'wheelchair', 'wheelchair.yes']",0
+Holiday Inn Maadi Cairo,Cairo,Hussain Ahmed Othman Street,31.24822461,29.96100025,"Holiday Inn Maadi Cairo, 29A Hussain Ahmed Othman Street, Ma‘di Al Khahiri, Cairo, 11431, Egypt","['accommodation', 'accommodation.hotel', 'building', 'building.accommodation', 'internet_access', 'internet_access.free']",0
+Holiday Inn Maadi Cairo,Cairo,Hussain Ahmed Othman Street,31.24822461,29.96100025,"Holiday Inn Maadi Cairo, 29A Hussain Ahmed Othman Street, Ma‘di Al Khahiri, Cairo, 11431, Egypt","['accommodation', 'accommodation.hotel', 'building', 'building.accommodation', 'internet_access', 'internet_access.free']",0
+HolydIes,Giza,Side Gamaa Al Doul Al Arabiya Street,31.2074897,30.059221,"HolydIes, Side Gamaa Al Doul Al Arabiya Street, El Agouza, Giza, 12654, Egypt","['accommodation', 'accommodation.hotel']",0
+HolydIes,Giza,Side Gamaa Al Doul Al Arabiya Street,31.2074897,30.059221,"HolydIes, Side Gamaa Al Doul Al Arabiya Street, El Agouza, Giza, 12654, Egypt","['accommodation', 'accommodation.hotel']",0
+horany fish,Giza,Al Nozha Street,31.004429,30.0514488,"horany fish, Al Nozha Street, El Rabwa, 12593, Egypt","['catering', 'catering.restaurant']",0
+Horus House Hotel,Cairo,Ismail Mohamed Street,31.2192726,30.0637719,"Horus House Hotel, 21 Ismail Mohamed Street, Al-Sabtiyya, 11568, Egypt","['accommodation', 'accommodation.hotel']",0
+Horus House Hotel,Cairo,Ismail Mohamed Street,31.2192726,30.0637719,"Horus House Hotel, 21 Ismail Mohamed Street, Al-Sabtiyya, 11568, Egypt","['accommodation', 'accommodation.hotel']",0
+Hotel Amoun,Aswan,Al Gemhoureya Street,32.8764355,24.9763719,"Hotel Amoun, Al Gemhoureya Street, Idfu City, 81644, Egypt","['accommodation', 'accommodation.hotel']",0
+Hotel Diamond also known as Massa,Aswan,Al Tahrir Street,32.8757279,24.977658,"Hotel Diamond also known as Massa, Al Tahrir Street, Idfu City, 81644, Egypt","['accommodation', 'accommodation.hotel']",0
+hotel Velvet 1915,Cairo,Maarouf Street,31.23907422,30.04926655,"hotel Velvet 1915, 2 Maarouf Street, Bab al Luq, Cairo, 11519, Egypt","['accommodation', 'accommodation.hotel', 'building', 'building.accommodation']",0
+hotel Velvet 1915,Cairo,Maarouf Street,31.23907422,30.04926655,"hotel Velvet 1915, 2 Maarouf Street, Bab al Luq, Cairo, 11519, Egypt","['accommodation', 'accommodation.hotel', 'building', 'building.accommodation']",0
+Hotmix,Giza,Fakhry Street,31.27467902,29.8476389,"Hotmix, Fakhry Street, El Badrashein, 12918, Egypt","['building', 'building.catering', 'catering', 'catering.restaurant']",0
+House of Coffee,Red Sea,Ahmed Ragab Street,33.6737926,27.4071022,"House of Coffee, Ahmed Ragab Street, Gamsha, 84513, Egypt","['catering', 'catering.cafe', 'catering.cafe.coffee', 'catering.cafe.coffee_shop']",0
+Hunting Hall Museum,Cairo,Al Saraya Street,31.22879345,30.028555,"Hunting Hall Museum, Al Saraya Street, Al Manyal, Cairo, 11555, Egypt","['building', 'building.tourism', 'entertainment', 'entertainment.museum']",0
+Hyatt Regency Cairo West,Giza,"Cairo, Alexandria Desert Road",31.07305122,30.01831275,"Hyatt Regency Cairo West, km 22 Cairo, Alexandria Desert Road, Ash Sheikh Zayed, 12677, Egypt","['accommodation', 'accommodation.hotel', 'internet_access', 'internet_access.free']",0
+Hyatt Regency Cairo West,Giza,"Cairo, Alexandria Desert Road",31.07305122,30.01831275,"Hyatt Regency Cairo West, km 22 Cairo, Alexandria Desert Road, Ash Sheikh Zayed, 12677, Egypt","['accommodation', 'accommodation.hotel', 'internet_access', 'internet_access.free']",0
+Il Forno di Amelia,Red Sea,Inas Al Deghedi Street,33.6753984,27.3956458,"Il Forno di Amelia, Inas Al Deghedi Street, Gamsha, 84513, Egypt","['catering', 'catering.restaurant', 'catering.restaurant.italian']",0
+Il Limone,Red Sea,Doctor Magdy Yaacoub Street,33.684565,27.3978015,"Il Limone, Doctor Magdy Yaacoub Street, Gamsha, 84513, Egypt","['catering', 'catering.restaurant']",0
+Il Pennello Ceramic Cafe,Cairo,Street 9,31.2667985,29.9510533,"Il Pennello Ceramic Cafe, Street 9, Cairo, 11431, Egypt","['catering', 'catering.cafe']",0
+Il Pennello Ceramic Café,Cairo,Omar Ibn Al Khatab Street,31.333329,30.1002143,"Il Pennello Ceramic Café, 2 Omar Ibn Al Khatab Street, Heliopolis, Cairo, 11757, Egypt","['catering', 'catering.cafe']",0
+Imperial Boat,Cairo,Al Moseqare Mohamed Abd Al Wahab Street,31.22751669,30.053022,"Imperial Boat, Al Moseqare Mohamed Abd Al Wahab Street, Al-Sabtiyya, 12344, Egypt","['catering', 'catering.restaurant']",0
+Imtenan,Cairo,Street 9,31.2603692,29.9576344,"Imtenan, 77 Street 9, Ma‘di Al Khahiri, Cairo, 11728, Egypt","['commercial', 'commercial.food_and_drink', 'commercial.food_and_drink.deli', 'commercial.food_and_drink.health_food']",0
+indiana Hôtel,Giza,Adel Hussein Rostom Street,31.21719555,30.0435449,"indiana Hôtel, 18 Adel Hussein Rostom Street, Dokki, Giza, 12611, Egypt","['accommodation', 'accommodation.hotel', 'building', 'building.accommodation']",0
+indiana Hôtel,Giza,Adel Hussein Rostom Street,31.21719555,30.0435449,"indiana Hôtel, 18 Adel Hussein Rostom Street, Dokki, Giza, 12611, Egypt","['accommodation', 'accommodation.hotel', 'building', 'building.accommodation']",0
+"InterContinental Cairo Semiramis, an IHG Hotel",Cairo,Kamal Al Din Hussain Street,31.23226068,30.0428649,"InterContinental Cairo Semiramis, an IHG Hotel, Kamal Al Din Hussain Street, Bab al Luq, Cairo, 11519, Egypt","['accommodation', 'accommodation.hotel', 'building', 'building.accommodation', 'internet_access', 'internet_access.free', 'wheelchair', 'wheelchair.yes']",0
+"InterContinental Cairo Semiramis, an IHG Hotel",Cairo,Kamal Al Din Hussain Street,31.23226068,30.0428649,"InterContinental Cairo Semiramis, an IHG Hotel, Kamal Al Din Hussain Street, Bab al Luq, Cairo, 11519, Egypt","['accommodation', 'accommodation.hotel', 'building', 'building.accommodation', 'internet_access', 'internet_access.free', 'wheelchair', 'wheelchair.yes']",0
+Island Restaurant,Giza,Al Obour Street,30.99359399,30.0443791,"Island Restaurant, Al Obour Street, Continental Gardens, 12593, Egypt","['catering', 'catering.restaurant']",0
+Ismailia,Aswan,Al Matar Street,32.899042,24.092523,"Ismailia, Al Matar Street, Othman Ahmed Ibrahim, 81521, Egypt","['catering', 'catering.restaurant']",0
+Jamaica Guest House,Aswan,loop from Nubialin,32.8910197,24.0894223,"Jamaica Guest House, loop from Nubialin, Koti, 81529, Egypt","['catering', 'catering.restaurant']",0
+Juice bar,Suez,Hoda Shaarawy Street,32.5570139,29.9647528,"Juice bar, Hoda Shaarawy Street, Suez, 43511, Egypt","['catering', 'catering.cafe']",0
+Juice bar,Suez,23rd July Street,32.5538555,29.9670563,"Juice bar, 23rd July Street, Suez, 43518, Egypt","['catering', 'catering.cafe']",0
+Jungle Club,Cairo,Street 11,31.3391126,29.8413658,"Jungle Club, Street 11, Cairo, 11723, Egypt","['catering', 'catering.cafe', 'internet_access']",0
+Jura el Galala,Suez,طريق ساحل السخنة Sukhna Coast Road,32.45550009,29.4698389,"Jura el Galala, طريق ساحل السخنة Sukhna Coast Road, Ain Sokhna, 43552, Egypt","['accommodation', 'accommodation.hotel', 'building', 'building.accommodation']",0
+Jura El Galala,Suez,طريق ساحل السخنة Sukhna Coast Road,32.4553891,29.4698448,"Jura El Galala, طريق ساحل السخنة Sukhna Coast Road, Ain Sokhna, 43552, Egypt","['accommodation', 'accommodation.hotel']",0
+Kafana Guest House Nile View,Aswan,loop from Nubialin,32.8856693,24.0890581,"Kafana Guest House Nile View, loop from Nubialin, Koti, 81529, Egypt","['accommodation', 'accommodation.guest_house', 'catering', 'catering.restaurant']",0
+Kahwet Share,Cairo,Al Nahda Street,31.2586697,29.9591734,"Kahwet Share, Al Nahda Street, Ma‘di Al Khahiri, Cairo, 11728, Egypt","['catering', 'catering.cafe']",0
+Kana Kato Restaurant & cafe,Aswan,loop from Nubialin,32.8854316,24.0885437,"Kana Kato Restaurant & cafe, loop from Nubialin, Koti, 81529, Egypt","['catering', 'catering.restaurant']",0
+Kanaka Cafe,Giza,El Geish Street,31.0893443,29.9587138,"Kanaka Cafe, El Geish Street, Ash Sheikh Zayed, 12587, Egypt","['catering', 'catering.cafe', 'internet_access']",0
+Karibu,Red Sea,Doctor Magdy Yaacoub Street,33.673954,27.395928,"Karibu, Doctor Magdy Yaacoub Street, Gamsha, 84513, Egypt","['catering', 'catering.restaurant']",0
+Kazaz,Cairo,Al Bostan Al Saedi Street,31.23923505,30.0470866,"Kazaz, 7 Al Bostan Al Saedi Street, Abdin, Cairo, 11513, Egypt","['building', 'building.catering', 'catering', 'catering.fast_food']",0
+KFC,Cairo,Ragheb Pasha Street,31.3313076,29.8471349,"KFC, Ragheb Pasha Street, Cairo, 11735, Egypt","['catering', 'catering.fast_food']",0
+KFC,Cairo,Hassn Al Gazzar Street,31.3557797,30.0688081,"KFC, Hassn Al Gazzar Street, Cairo, 11391, Egypt","['catering', 'catering.fast_food']",0
+KFC,Suez,"Side Suez, Ain Sokhna Road",32.3420125,29.6925734,"KFC, Side Suez, Ain Sokhna Road, Ain Sokhna, Egypt","['catering', 'catering.fast_food']",0
+KFC,Suez,"Side Suez, Ain Sokhna Road",32.3420125,29.6925734,"KFC, Side Suez, Ain Sokhna Road, Ain Sokhna, Egypt","['catering', 'catering.fast_food']",0
+Kid's Cafe,Cairo,Madinaty Road,31.642028,30.09534725,"Kid's Cafe, Madinaty Road, Cairo, 19519, Egypt","['building', 'building.catering', 'catering', 'catering.restaurant']",0
+King Hotel,Giza,Abd Al Rahim Sabry Street,31.214383,30.0409859,"King Hotel, Abd Al Rahim Sabry Street, Dokki, Giza, 12611, Egypt","['accommodation', 'accommodation.hotel']",0
+King Hotel,Giza,Abd Al Rahim Sabry Street,31.214383,30.0409859,"King Hotel, Abd Al Rahim Sabry Street, Dokki, Giza, 12611, Egypt","['accommodation', 'accommodation.hotel']",0
+King Jamaica Restaurant & Cafe,Aswan,loop from Nubialin,32.8908624,24.0894069,"King Jamaica Restaurant & Cafe, loop from Nubialin, Koti, 81529, Egypt","['catering', 'catering.restaurant']",0
+koshari Tahrir,Cairo,Abd Al Khaleq Tahrwat Street,31.24050119,30.05022675,"koshari Tahrir, 17 Abd Al Khaleq Tahrwat Street, Abdin, Cairo, 11513, Egypt","['building', 'building.catering', 'catering', 'catering.fast_food']",0
+Koshary Alsafoa,Aswan,Al Shahid Mahrous Street,32.9012727,24.0988748,"Koshary Alsafoa, Al Shahid Mahrous Street, Saleh Gahin, 81543, Egypt","['catering', 'catering.restaurant']",0
+Koshary and Falafel Sandwiches,Aswan,Al Ta'men Al Sihi Street,32.8850625,24.0621209,"Koshary and Falafel Sandwiches, Al Ta'men Al Sihi Street, Nagaa Al Mahata, 81531, Egypt","['catering', 'catering.restaurant']",0
+Kunst Gallery and Cafe,Cairo,Sherif Pasha Street,31.2420145,30.0499139,"Kunst Gallery and Cafe, 28 Sherif Pasha Street, Abdin, Cairo, 11513, Egypt","['catering', 'catering.cafe']",0
+L' Asiatique,Red Sea,"Al Qusair, Marsa Aalam Road",34.7855678,25.2558268,"L' Asiatique, Al Qusair, Marsa Aalam Road, Egypt","['catering', 'catering.restaurant', 'catering.restaurant.asian']",0
+L'aroma Gourmet Coffee,Cairo,Street 9,31.2598899,29.9578489,"L'aroma Gourmet Coffee, Street 9, Ma‘di Al Khahiri, Cairo, 11728, Egypt","['commercial', 'commercial.food_and_drink', 'commercial.food_and_drink.coffee_and_tea']",0
+La Casetta,Cairo,Street 18,31.2691641,29.9582723,"La Casetta, Street 18, Cairo, 11431, Egypt","['catering', 'catering.restaurant', 'catering.restaurant.italian']",0
+La Luna Pizzeria,Red Sea,Inas Al Deghedi Street,33.6773781,27.3958937,"La Luna Pizzeria, Inas Al Deghedi Street, Gamsha, 84513, Egypt","['catering', 'catering.restaurant']",0
+La Palme,Red Sea,"Al Qusair, Marsa Aalam Road",34.37905242,25.9550513,"La Palme, Al Qusair, Marsa Aalam Road, Al Qusair City, Egypt","['building', 'building.catering', 'catering', 'catering.restaurant']",0
+La Petite Creperie,Cairo,Moustafa Kamel Street,31.2604235,29.9589249,"La Petite Creperie, Moustafa Kamel Street, Ma‘di Al Khahiri, Cairo, 11728, Egypt","['catering', 'catering.cafe', 'catering.cafe.ice_cream', 'catering.ice_cream']",0
+La Poire,Cairo,Street 9,31.2606296,29.9568246,"La Poire, 70 Street 9, Ma‘di Al Khahiri, Cairo, 11728, Egypt","['catering', 'catering.cafe']",0
+La Poire,Giza,Nady Al Seid Street,31.2021357,30.0438938,"La Poire, Nady Al Seid Street, El Mohandesin, Giza, 12615, Egypt","['building', 'building.catering', 'catering', 'catering.cafe']",0
+La Poire,Cairo,The Ring Road,31.3203425,29.9836942,"La Poire, The Ring Road, Cairo, 11771, Egypt","['catering', 'catering.cafe']",0
+La Poire,Giza,El Geish Street,31.0891975,29.9577288,"La Poire, El Geish Street, Ash Sheikh Zayed, 12587, Egypt","['commercial', 'commercial.food_and_drink', 'commercial.food_and_drink.bakery']",0
+La Rotisserie,Red Sea,Al Doctor Abd Al Fattah Fahmy Street,33.6814696,27.38797425,"La Rotisserie, Al Doctor Abd Al Fattah Fahmy Street, Gamsha, 84513, Egypt","['building', 'building.catering', 'catering', 'catering.restaurant']",0
+La Veranda,Red Sea,"Al Qusair, Marsa Aalam Road",34.38000844,25.95222065,"La Veranda, Al Qusair, Marsa Aalam Road, Al Qusair City, Egypt","['building', 'building.catering', 'catering', 'catering.restaurant', 'catering.restaurant.mediterranean']",0
+La Voche,Luxor,Al Qarnh Road,32.6329143,25.7063473,"La Voche, Al Qarnh Road, Al Baairat Village, 85951, Egypt","['commercial', 'commercial.food_and_drink', 'commercial.food_and_drink.confectionery']",0
+La Voche,Luxor,Al Qarnh Road,32.6329143,25.7063473,"La Voche, Al Qarnh Road, Al Baairat Village, 85951, Egypt","['commercial', 'commercial.food_and_drink', 'commercial.food_and_drink.confectionery']",0
+Lagoona,Giza,Abou Al Houl Al Syahi Street,31.1536378,29.9568667,"Lagoona, Abou Al Houl Al Syahi Street, Nazlet al Batran, Remaya Square, 12561, Egypt","['accommodation', 'accommodation.hotel']",0
+Lagoona,Giza,Abou Al Houl Al Syahi Street,31.1536378,29.9568667,"Lagoona, Abou Al Houl Al Syahi Street, Nazlet al Batran, Remaya Square, 12561, Egypt","['accommodation', 'accommodation.hotel']",0
+Lagoona,Red Sea,"Al Qusair, Marsa Aalam Road",34.6451069,25.5216462,"Lagoona, Al Qusair, Marsa Aalam Road, Port Ghalib, Egypt","['catering', 'catering.restaurant']",0
+Lavie Hotel,Cairo,26th July Street,31.241769,30.0526148,"Lavie Hotel, 26th July Street, Al-Azbakeya, Cairo, 11574, Egypt","['accommodation', 'accommodation.hotel']",0
+Lavie Hotel,Cairo,26th July Street,31.241769,30.0526148,"Lavie Hotel, 26th July Street, Al-Azbakeya, Cairo, 11574, Egypt","['accommodation', 'accommodation.hotel']",0
+le Chateau; le Chalet - Swiss Restaurant,Giza,Al Nil Street,31.2182018,30.0305602,"le Chateau; le Chalet - Swiss Restaurant, Al Nil Street, Dokki, Giza, 12612, Egypt","['catering', 'catering.restaurant']",0
+Le Garage,Red Sea,Ahmed Ragab Street,33.67656457,27.4090063,"Le Garage, Ahmed Ragab Street, Gamsha, 84513, Egypt","['building', 'building.catering', 'catering', 'catering.restaurant', 'catering.restaurant.burger']",0
+Le Riad Hotel de Charme,Cairo,Atafet Borgwan,31.2617601,30.0521855,"Le Riad Hotel de Charme, Atafet Borgwan, El-Gamaliyya, Cairo, 11681, Egypt","['accommodation', 'accommodation.hotel']",0
+Le Riad Hotel de Charme,Cairo,Atafet Borgwan,31.2617601,30.0521855,"Le Riad Hotel de Charme, Atafet Borgwan, El-Gamaliyya, Cairo, 11681, Egypt","['accommodation', 'accommodation.hotel']",0
+Le Riad Pyramids Hotel,Giza,Rowda Al Ahram Street,31.1308122,29.9906676,"Le Riad Pyramids Hotel, Rowda Al Ahram Street, Remaya Square, 12512, Egypt","['accommodation', 'accommodation.hotel']",0
+Le Riad Pyramids Hotel,Giza,Rowda Al Ahram Street,31.1308122,29.9906676,"Le Riad Pyramids Hotel, Rowda Al Ahram Street, Remaya Square, 12512, Egypt","['accommodation', 'accommodation.hotel']",0
+LIDO,Cairo,Shagarat Al Dur Street,31.2200729,30.0631918,"LIDO, Shagarat Al Dur Street, Al-Sabtiyya, 11211, Egypt","['catering', 'catering.fast_food', 'catering.fast_food.burger']",0
+Lifeguard,Giza,Omar El Gizawy Street,31.2053704,30.0649498,"Lifeguard, Omar El Gizawy Street, Meet Okba, Giza, 12658, Egypt","['catering', 'catering.cafe', 'internet_access', 'wheelchair', 'wheelchair.limited']",0
+Local restaurant,Aswan,Kornish Al Nile Street,32.8952171,24.0901468,"Local restaurant, Kornish Al Nile Street, Abd Al Aazim Hassn, 81511, Egypt","['catering', 'catering.restaurant', 'catering.restaurant.regional']",0
+Location Cafe,Giza,Gamaa Al Doul Al Arabiya Street,31.2025013,30.0548471,"Location Cafe, 13 Gamaa Al Doul Al Arabiya Street, El Mohandesin, Cairo, 12655, Egypt","['catering', 'catering.cafe', 'internet_access', 'internet_access.free']",0
+Lucille's,Cairo,Street 9,31.262069,29.9547361,"Lucille's, 54 Street 9, Ma‘di Al Khahiri, Cairo, 11728, Egypt","['catering', 'catering.restaurant', 'catering.restaurant.american', 'catering.restaurant.burger']",0
+Luxor Museum,Luxor,Museum Luxor Street,32.644489,25.7076634,"Luxor Museum, Museum Luxor Street, Luxor City, Luxor, 81693, Egypt","['entertainment', 'entertainment.museum']",0
+Luxor Museum,Luxor,Museum Luxor Street,32.644489,25.7076634,"Luxor Museum, Museum Luxor Street, Luxor City, Luxor, 81693, Egypt","['entertainment', 'entertainment.museum']",0
+Lychee,Red Sea,Ahmed Ragab Street,33.6738355,27.4070474,"Lychee, Ahmed Ragab Street, Gamsha, 84513, Egypt","['catering', 'catering.restaurant', 'vegan', 'vegetarian']",0
+Ma Tigoo Hookah Lounge,Cairo,Street 9,31.2635524,29.9535112,"Ma Tigoo Hookah Lounge, 45 Street 9, Ma‘di Al Khahiri, Cairo, 11431, Egypt","['catering', 'catering.cafe']",0
+Maadi Hotel,Cairo,Masr Helwan Agricultural Road,31.25133167,29.95927375,"Maadi Hotel, 19 Masr Helwan Agricultural Road, Ma‘di Al Khahiri, Cairo, 11728, Egypt","['accommodation', 'accommodation.hotel', 'internet_access']",0
+Maadi Hotel,Cairo,Masr Helwan Agricultural Road,31.25133167,29.95927375,"Maadi Hotel, 19 Masr Helwan Agricultural Road, Ma‘di Al Khahiri, Cairo, 11728, Egypt","['accommodation', 'accommodation.hotel', 'internet_access']",0
+Madinet Habu,Luxor,Maabad Habo Road,32.60202145,25.7174974,"Madinet Habu, Maabad Habo Road, Al Baairat Village, 85958, Egypt","['entertainment', 'entertainment.museum']",0
+Madinet Habu,Luxor,Maabad Habo Road,32.60202145,25.7174974,"Madinet Habu, Maabad Habo Road, Al Baairat Village, 85958, Egypt","['entertainment', 'entertainment.museum']",0
+Maharaja,Giza,Side Al Bostan Street,31.0108055,30.0273069,"Maharaja, Side Al Bostan Street, El Nada Compound, 12573, Egypt","['catering', 'catering.restaurant', 'catering.restaurant.indian']",0
+Mahmut Falafel,Aswan,Saad Zaghloul Street,32.8978365,24.0922616,"Mahmut Falafel, Saad Zaghloul Street, Othman Ahmed Ibrahim, 81521, Egypt","['catering', 'catering.restaurant']",0
+Mahraja Indian Restaurant,Cairo,Al Nahda Street,31.2579908,29.9585177,"Mahraja Indian Restaurant, Al Nahda Street, Ma‘di Al Khahiri, Cairo, 11728, Egypt","['catering', 'catering.restaurant', 'catering.restaurant.indian']",0
+Main Restaurant,Red Sea,"Al Qusair, Marsa Aalam Road",34.5991015,25.6075695,"Main Restaurant, Al Qusair, Marsa Aalam Road, Egypt","['catering', 'catering.restaurant']",0
+Main Restaurant,Red Sea,"Al Qusair, Marsa Aalam Road",34.7430608,25.325713,"Main Restaurant, Al Qusair, Marsa Aalam Road, Egypt","['catering', 'catering.restaurant']",0
+"Main Restaurant ""Indiana Jones""",Red Sea,"Hurghada, Ismailia Road",33.7167658,27.3110022,"Main Restaurant ""Indiana Jones"", Hurghada, Ismailia Road, Al Ahia', 84509, Egypt","['catering', 'catering.restaurant', 'catering.restaurant.international']",0
+Makani,Aswan,Kornish Al Nile Street,32.8906005,24.0852998,"Makani, Kornish Al Nile Street, Taqouk Mountain, 81529, Egypt","['catering', 'catering.restaurant']",0
+Makka,Aswan,Abtal Al Tahrir Street,32.9006439,24.0988808,"Makka, Abtal Al Tahrir Street, Saleh Gahin, 81543, Egypt","['catering', 'catering.restaurant']",0
+Makka,Aswan,Abtal Al Tahrir Street,32.9007223,24.0989422,"Makka, Abtal Al Tahrir Street, Saleh Gahin, 81543, Egypt","['catering', 'catering.restaurant']",0
+Malu's Deli,Red Sea,Ahmed Ragab Street,33.6766845,27.409788,"Malu's Deli, Ahmed Ragab Street, Gamsha, 84513, Egypt","['catering', 'catering.restaurant']",0
+man' oucheh,Cairo,Street 9,31.2630692,29.95411785,"man' oucheh, 51 Street 9, Ma‘di Al Khahiri, Cairo, 11728, Egypt","['building', 'building.catering', 'building.residential', 'catering', 'catering.fast_food']",0
+Mandarine Koueider,Cairo,Hassan Asem Street,31.2199006,30.0625362,"Mandarine Koueider, 17 Hassan Asem Street, Al-Sabtiyya, 11211, Egypt","['catering', 'catering.cafe', 'commercial', 'commercial.food_and_drink', 'commercial.food_and_drink.bakery']",0
+Mandarine Koueider,Cairo,Kornish Al Nil Street,31.2520988,29.9564685,"Mandarine Koueider, Kornish Al Nil Street, Al-Maasara, Cairo, 11917, Egypt","['commercial', 'commercial.food_and_drink', 'commercial.food_and_drink.confectionery']",0
+Mangolian Restaurant,Red Sea,"Hurghada, Ismailia Road",33.7195543,27.3082858,"Mangolian Restaurant, Hurghada, Ismailia Road, Al Ahia', 84509, Egypt","['catering', 'catering.restaurant']",0
+Mangrove Cafe,Red Sea,Hala'ib W Shalateen Road,35.4311654,24.2073881,"Mangrove Cafe, Hala'ib W Shalateen Road, Ash Shalatin, Egypt","['catering', 'catering.cafe']",0
+Marco Polo,Red Sea,Ola Zaki Ghabour Street,33.6852298,27.3865524,"Marco Polo, Ola Zaki Ghabour Street, Gamsha, 84513, Egypt","['catering', 'catering.restaurant', 'catering.restaurant.international']",0
+Marny's,Cairo,Street 213,31.27675,29.960352,"Marny's, Street 213, Cairo, 11431, Egypt","['catering', 'catering.cafe']",0
+"Marriott Mena House, Cairo",Giza,"Cairo, Alexandria Desert Road",31.1327491,29.9858579,"Marriott Mena House, Cairo, 6 Cairo, Alexandria Desert Road, Giza, 12556, Egypt","['accommodation', 'accommodation.hotel']",0
+"Marriott Mena House, Cairo",Giza,"Cairo, Alexandria Desert Road",31.1327491,29.9858579,"Marriott Mena House, Cairo, 6 Cairo, Alexandria Desert Road, Giza, 12556, Egypt","['accommodation', 'accommodation.hotel']",0
+Marsa Shagra Ecolodge Village - Main Restaurant,Red Sea,"Al Qusair, Marsa Aalam Road",34.7943987,25.2459867,"Marsa Shagra Ecolodge Village - Main Restaurant, Al Qusair, Marsa Aalam Road, Egypt","['catering', 'catering.restaurant']",0
+Mazag Cafe - كافيه مزاج,Al Qalyubiya,23rd July Street,31.3634597,30.2167499,"Mazag Cafe - كافيه مزاج, 23rd July Street, Al-Obour, 13763, Egypt","['catering', 'catering.cafe', 'internet_access']",0
+McDonald's,Cairo,Al Gezira Street,31.22317426,30.0528326,"McDonald's, Al Gezira Street, Boulak, 11211, Egypt","['building', 'building.catering', 'catering', 'catering.fast_food', 'catering.fast_food.burger']",0
+McDonald's,Cairo,El Benouk Road,31.4322951,30.0172397,"McDonalds, El Benouk Road, Cairo, 11835, Egypt","['catering', 'catering.fast_food', 'catering.fast_food.burger', 'wheelchair', 'wheelchair.yes']",0
+MECC - Maadi Engineering Cars Company;Pottery Cafe,Cairo,Street 9,31.26709989,29.9504126,"MECC - Maadi Engineering Cars Company;Pottery Cafe, 12 Street 9, Cairo, 11728, Egypt","['building', 'building.catering', 'building.commercial', 'catering', 'catering.cafe', 'commercial', 'service', 'service.vehicle', 'service.vehicle.repair', 'service.vehicle.repair.car']",0
+Medinet Habu,Luxor,Maabad Habo Road,32.60053556,25.71983695,"Medinet Habu, Maabad Habo Road, Al Baairat Village, 85958, Egypt","['building', 'building.tourism', 'entertainment', 'entertainment.museum']",0
+Medinet Habu,Luxor,Maabad Habo Road,32.60053556,25.71983695,"Medinet Habu, Maabad Habo Road, Al Baairat Village, 85958, Egypt","['building', 'building.tourism', 'entertainment', 'entertainment.museum']",0
+Mediterranean,Red Sea,"Al Qusair, Marsa Aalam Road",34.7900681,25.256589,"Mediterranean, Al Qusair, Marsa Aalam Road, Egypt","['catering', 'catering.restaurant', 'catering.restaurant.mediterranean']",0
+Memar Almorshedy,Cairo,Al Abany Street,31.3212088,29.985867,"Memar Almorshedy, Al Abany Street, Cairo, 11571, Egypt","['accommodation', 'accommodation.hotel']",0
+Memar Almorshedy,Cairo,Al Abany Street,31.3212088,29.985867,"Memar Almorshedy, Al Abany Street, Cairo, 11571, Egypt","['accommodation', 'accommodation.hotel']",0
+Merbey EG,Red Sea,Amr Khalil Street,33.6724919,27.4128683,"Merbey EG, Amr Khalil Street, Aj Jona, 84513, Egypt","['catering', 'catering.restaurant']",0
+Mermaid,Cairo,Street 9,31.2600911,29.9579783,"Mermaid, Street 9, Ma‘di Al Khahiri, Cairo, 11728, Egypt","['catering', 'catering.restaurant']",0
+Mios,Red Sea,Doctor Magdy Yaacoub Street,33.6769923,27.3936423,"Mios, Doctor Magdy Yaacoub Street, Gamsha, 84513, Egypt","['catering', 'catering.restaurant', 'catering.restaurant.seafood']",0
+Mirabelle,Aswan,Kornish Al Nile Street,32.8962805,24.0946389,"Mirabelle, Kornish Al Nile Street, Sherif Soliman, 81543, Egypt","['catering', 'catering.cafe']",0
+Mo'men,Eastern,Abou Bakr Al Sedik Street,31.7461135,30.2903941,"Mo'men, Abou Bakr Al Sedik Street, 8, 10th of Ramadan, 44629, Egypt","['catering', 'catering.fast_food', 'catering.fast_food.sandwich']",0
+mo'men,Cairo,Abd Allah Pasha Street,31.3301274,29.8470604,"mo'men, Abd Allah Pasha Street, Cairo, 11735, Egypt","['catering', 'catering.fast_food']",0
+Mohamed Ali Palace Museum,Cairo,Tolba Ahmed Pasha Street,31.22948266,30.0264978,"Mohamed Ali Palace Museum, Tolba Ahmed Pasha Street, Al Manyal, Cairo, 11555, Egypt","['building', 'building.tourism', 'entertainment', 'entertainment.museum']",0
+mohra,Suez,Al Cornish Road,32.5402942,29.9558035,"mohra, Al Cornish Road, Suez, 43211, Egypt","['catering', 'catering.cafe']",0
+MOMO,Red Sea,"Al Qusair, Marsa Aalam Road",34.6099536,25.5986342,"MOMO, Al Qusair, Marsa Aalam Road, Egypt","['catering', 'catering.restaurant', 'catering.restaurant.chinese']",0
+Mongini's,Giza,El Geish Street,31.0891895,29.9575243,"Mongini's, El Geish Street, Ash Sheikh Zayed, 12587, Egypt","['commercial', 'commercial.food_and_drink', 'commercial.food_and_drink.bakery']",0
+Monginis,Cairo,Borhan Street,31.3346202,29.8433978,"Monginis, Borhan Street, Cairo, 11723, Egypt","['commercial', 'commercial.food_and_drink', 'commercial.food_and_drink.bakery']",0
+Mood Swing,Cairo,Al Thawra Street,31.328838,30.0898042,"Mood Swing, Al Thawra Street, Heliopolis, Cairo, 11737, Egypt","['catering', 'catering.restaurant', 'catering.restaurant.international']",0
+Morgan’s Beach Bistro,Red Sea,Ola Zaki Ghabour Street,33.685888,27.3854867,"Morgan’s Beach Bistro, Ola Zaki Ghabour Street, Gamsha, 84513, Egypt","['catering', 'catering.restaurant']",0
+Morgana Cafe,Red Sea,10th of Ramadan Road,34.2748237,26.1167178,"Morgana Cafe, 10th of Ramadan Road, Al Qusair City, 84712, Egypt","['catering', 'catering.cafe']",0
+Mori Sushi,Cairo,Baha' Al Din Qaraqosh Street,31.2176353,30.0579481,"Mori Sushi, Baha' Al Din Qaraqosh Street, Al-Sabtiyya, 11211, Egypt","['catering', 'catering.restaurant', 'catering.restaurant.japanese', 'catering.restaurant.sushi']",0
+Mori Sushi,Cairo,Street 9,31.2607594,29.9565477,"Mori Sushi, Street 9, Ma‘di Al Khahiri, Cairo, 11728, Egypt","['catering', 'catering.restaurant', 'catering.restaurant.sushi']",0
+Mori Sushi,Red Sea,Ahmed Ragab Street,33.6761255,27.4102994,"Mori Sushi, Ahmed Ragab Street, Gamsha, 84513, Egypt","['catering', 'catering.restaurant', 'catering.restaurant.japanese']",0
+Mövenpick Resort El Sokhna,Suez,"Ain Sokhna, Zaafarana Road",32.36920483,29.5454724,"Mövenpick Resort El Sokhna, Ain Sokhna, Zaafarana Road, 84514, Egypt","['accommodation', 'accommodation.hotel', 'internet_access']",0
+Movenpick Waffle Shop,Cairo,Street 9,31.2635856,29.9534755,"Movenpick Waffle Shop, 45 Street 9, Ma‘di Al Khahiri, Cairo, 11431, Egypt","['catering', 'catering.cafe', 'catering.cafe.ice_cream', 'catering.ice_cream']",0
+Mugshot,Cairo,Street 9,31.262932,29.9537732,"Mugshot, Street 9, Ma‘di Al Khahiri, Cairo, 11431, Egypt","['catering', 'catering.cafe', 'internet_access', 'internet_access.free']",0
+Mummification Museum,Luxor,Kornish Al Nile Street,32.6399946,25.7026139,"Mummification Museum, Kornish Al Nile Street, Luxor City, Luxor, 85951, Egypt","['entertainment', 'entertainment.museum']",0
+Mummification Museum,Luxor,Kornish Al Nile Street,32.6399946,25.7026139,"Mummification Museum, Kornish Al Nile Street, Luxor City, Luxor, 85951, Egypt","['entertainment', 'entertainment.museum']",0
+Munchies,Cairo,Al Nahda Street,31.2586556,29.959194,"Munchies, Al Nahda Street, Ma‘di Al Khahiri, Cairo, 11728, Egypt","['catering', 'catering.fast_food']",0
+MUST Opera House,Giza,Side 26th of July Axis,30.9652826,29.9966129,"MUST Opera House, Side 26th of July Axis, 7th District, 6th of October, 12568, Egypt","['entertainment', 'entertainment.culture', 'entertainment.culture.theatre', 'wheelchair', 'wheelchair.limited']",0
+My Chocolate,Giza,Ibrahim Al Adawy Street,31.1085149,29.9829791,"My Chocolate, 165 Ibrahim Al Adawy Street, Giza, 12559, Egypt","['commercial', 'commercial.food_and_drink', 'commercial.food_and_drink.bakery']",0
+My home,Giza,Ammar Ibn Yaser Street,31.1797531,30.0930635,"My home, Ammar Ibn Yaser Street, Bashteel Al-Balad, 12976, Egypt","['accommodation', 'accommodation.hotel']",0
+My home,Giza,Ammar Ibn Yaser Street,31.1797531,30.0930635,"My home, Ammar Ibn Yaser Street, Bashteel Al-Balad, 12976, Egypt","['accommodation', 'accommodation.hotel']",0
+National Cultural Centre,Cairo,Al Tahrir Street,31.22341021,30.0426202,"National Cultural Centre, Al Tahrir Street, Bab al Luq, 11111, Egypt","['entertainment', 'entertainment.museum']",0
+Native cafe,Giza,Side Al Markazy Axis,30.9394262,29.9694969,"Native cafe, Side Al Markazy Axis, 3rd District, 6th of October, 12596, Egypt","['catering', 'catering.cafe']",0
+Negroni,Aswan,Aswan Airport Road,32.8246018,23.9674109,"Negroni, Aswan Airport Road, Sahara City, Egypt","['catering', 'catering.restaurant']",0
+Nema Inn pyramids,Giza,Al Akhtal Street,31.1416903,29.9757572,"Nema Inn pyramids, Al Akhtal Street, Nazlet al Batran, Giza, 12125, Egypt","['accommodation', 'accommodation.hotel']",0
+Nema Inn pyramids,Giza,Al Akhtal Street,31.1416903,29.9757572,"Nema Inn pyramids, Al Akhtal Street, Nazlet al Batran, Giza, 12125, Egypt","['accommodation', 'accommodation.hotel']",0
+New Hamees Papyrus,Luxor,Maabad Al Karnak Street,32.6492787,25.710769,"New Hamees Papyrus, Maabad Al Karnak Street, Old Karnak, 81693, Egypt","['commercial', 'commercial.gift_and_souvenir']",0
+New Hamees Papyrus,Luxor,Maabad Al Karnak Street,32.6492787,25.710769,"New Hamees Papyrus, Maabad Al Karnak Street, Old Karnak, 81693, Egypt","['commercial', 'commercial.gift_and_souvenir']",0
+Nice Cream,Cairo,Street 9,31.2667471,29.9510796,"Nice Cream, Street 9, Cairo, 11431, Egypt","['catering', 'catering.restaurant']",0
+Nile Museum,Aswan,25,32.8839688,24.0408009,"Nile Museum, 25, Shash, 81531, Egypt","['entertainment', 'entertainment.museum']",0
+Noi,Red Sea,Amr Khalil Street,33.67718203,27.4157768,"Noi, Amr Khalil Street, Gamsha, 84513, Egypt","['building', 'building.catering', 'catering', 'catering.restaurant']",0
+NOLA Cupcakes,Cairo,Hassan Asem Street,31.2227251,30.0613878,"NOLA Cupcakes, 4 Hassan Asem Street, Al-Sabtiyya, 11211, Egypt","['catering', 'catering.cafe']",0
+Nola Cupcakes,Cairo,Street 9,31.2594332,29.9584385,"Nola Cupcakes, 84 Street 9, Ma‘di Al Khahiri, Cairo, 11728, Egypt","['commercial', 'commercial.food_and_drink', 'commercial.food_and_drink.confectionery']",0
+Nouran,Giza,Mohamed Khalaf Street,31.2141061,30.0400118,"Nouran, Mohamed Khalaf Street, Dokki, Giza, 12611, Egypt","['accommodation', 'accommodation.hotel']",0
+Nouran,Giza,Mohamed Khalaf Street,31.2141061,30.0400118,"Nouran, Mohamed Khalaf Street, Dokki, Giza, 12611, Egypt","['accommodation', 'accommodation.hotel']",0
+Nubian Dreams,Aswan,loop from Nubialin,32.890724,24.0893649,"Nubian Dreams, loop from Nubialin, Koti, 81529, Egypt","['catering', 'catering.cafe']",0
+Nubian house,Aswan,Mahata Al Meyah Road,32.8875969,24.0810903,"Nubian house, Mahata Al Meyah Road, Taqouk Mountain, 81529, Egypt","['catering', 'catering.restaurant']",0
+Nubian House Coffee Shop,Aswan,loop from Nubialin,32.887112,24.0857463,"Nubian House Coffee Shop, loop from Nubialin, Koti, 81529, Egypt","['catering', 'catering.cafe']",0
+Nūn Art Gallery,Luxor,Al Qarnh Road,32.6327518,25.7036582,"Nūn Art Gallery, Al Qarnh Road, Al Baairat Village, 85951, Egypt","['entertainment', 'entertainment.museum']",0
+Nūn Art Gallery,Luxor,Al Qarnh Road,32.6327518,25.7036582,"Nūn Art Gallery, Al Qarnh Road, Al Baairat Village, 85951, Egypt","['entertainment', 'entertainment.museum']",0
+OddBits,Cairo,Street 9,31.2613775,29.9564676,"OddBits, 67 Street 9, Ma‘di Al Khahiri, Cairo, 11728, Egypt","['commercial', 'commercial.gift_and_souvenir']",0
+Old Nubian Guest House Philae & Restaurant,Aswan,25,32.8847615,24.0315912,"Old Nubian Guest House Philae & Restaurant, 25, Shash, 81531, Egypt","['accommodation', 'accommodation.guest_house', 'catering', 'catering.restaurant']",0
+Olivo,Red Sea,"Al Qusair, Marsa Aalam Road",34.60763225,25.59828335,"Olivo, Al Qusair, Marsa Aalam Road, Egypt","['building', 'building.catering', 'catering', 'catering.restaurant']",0
+omkalsoum cafe,Cairo,Saria Al Azbakeya Street,31.24318973,30.0532791,"omkalsoum cafe, 2 Saria Al Azbakeya Street, Al-Azbakeya, Cairo, 11574, Egypt","['building', 'building.catering', 'catering', 'catering.cafe']",0
+On the Run,Giza,Side 26th of July Axis,30.9802841,30.0064726,"On the Run, Side 26th of July Axis, 7th District, 6th of October, 12568, Egypt","['catering', 'catering.cafe']",0
+Opera Cafe,Cairo,Mahmoud Mokhtar Street,31.22256804,30.04363155,"Opera Cafe, Mahmoud Mokhtar Street, Bab al Luq, 11111, Egypt","['building', 'building.catering', 'catering', 'catering.cafe']",0
+Orangerie,Red Sea,Mövenpick El Qusair,34.2466501,26.1547614,"Orangerie, Mövenpick El Qusair, Al Qusair City, 84712, Egypt","['catering', 'catering.restaurant']",0
+Osta Basha,Giza,El Geish Street,31.0892516,29.9581042,"Osta Basha, El Geish Street, Ash Sheikh Zayed, 12587, Egypt","['catering', 'catering.restaurant']",0
+Ovio,Cairo,Street 18,31.2692026,29.9582437,"Ovio, Street 18, Cairo, 11431, Egypt","['catering', 'catering.restaurant']",0
+Pakistani restaurant,Giza,Doctor Al Mahrouqi Street,31.2087284,30.0567556,"Pakistani restaurant, Doctor Al Mahrouqi Street, El Agouza, Giza, 12654, Egypt","['catering', 'catering.restaurant']",0
+Palestine,Aswan,Medan Mahata Aswan Street,32.9014806,24.0998065,"Palestine, Medan Mahata Aswan Street, Saleh Gahin, 81543, Egypt","['catering', 'catering.restaurant']",0
+Pangea,Giza,Oman Square,31.2026525,30.0412816,"Pangea, Oman Square, Been Al-Sarayat, Giza, 12615, Egypt","['catering', 'catering.restaurant']",0
+Panorama,Aswan,Kornish Al Nile Street,32.8916496,24.0860309,"Panorama, Kornish Al Nile Street, Abd Al Aazim Hassn, 81543, Egypt","['catering', 'catering.restaurant']",0
+Panorama Buffet Restaurant,Red Sea,"Al Qusair, Marsa Aalam Road",34.6422909,25.5216048,"Panorama Buffet Restaurant, Al Qusair, Marsa Aalam Road, Port Ghalib, Egypt","['catering', 'catering.restaurant']",0
+Panorama Pyramids Inn,Giza,Abou Al Houl Al Syahi Western Street,31.1411272,29.9744838,"Panorama Pyramids Inn, Abou Al Houl Al Syahi Western Street, Kom al Akhdar, Giza, 12125, Egypt","['accommodation', 'accommodation.hotel']",0
+Panorama Pyramids Inn,Giza,Abou Al Houl Al Syahi Western Street,31.1411272,29.9744838,"Panorama Pyramids Inn, Abou Al Houl Al Syahi Western Street, Kom al Akhdar, Giza, 12125, Egypt","['accommodation', 'accommodation.hotel']",0
+Papa John's,Cairo,Makram Abaid Street,31.3445034,30.0686265,"Papa John's, Makram Abaid Street, Nasr City, Cairo, 11391, Egypt","['catering', 'catering.fast_food', 'catering.fast_food.pizza']",0
+Partido cafe,Cairo,Abd Al Latif Hamza Street,31.3510806,30.0683536,"Partido cafe, 11 Abd Al Latif Hamza Street, Cairo, 11391, Egypt","['catering', 'catering.cafe', 'internet_access']",0
+Patchi,Cairo,Street 206,31.273164,29.9641557,"Patchi, Street 206, Cairo, 11431, Egypt","['commercial', 'commercial.food_and_drink', 'commercial.food_and_drink.chocolate']",0
+Pearl Hotel,Cairo,Street 82,31.25955579,29.9565521,"Pearl Hotel, Street 82, Ma‘di Al Khahiri, Cairo, 11728, Egypt","['accommodation', 'accommodation.hotel', 'building', 'building.accommodation', 'internet_access']",0
+Pearl Hotel,Cairo,Street 82,31.25955579,29.9565521,"Pearl Hotel, Street 82, Ma‘di Al Khahiri, Cairo, 11728, Egypt","['accommodation', 'accommodation.hotel', 'building', 'building.accommodation', 'internet_access']",0
+Peking,Giza,Al Atba' Street,31.1986184,30.0468447,"Peking, Al Atba' Street, El Mohandesin, Giza, 12615, Egypt","['catering', 'catering.restaurant', 'catering.restaurant.chinese']",0
+Pharaohs,Giza,Lotfi Hasouna Street,31.2185122,30.0422436,"Pharaohs, Lotfi Hasouna Street, Dokki, Giza, 12611, Egypt","['accommodation', 'accommodation.hotel']",0
+Pharaohs,Giza,Lotfi Hasouna Street,31.2185122,30.0422436,"Pharaohs, Lotfi Hasouna Street, Dokki, Giza, 12611, Egypt","['accommodation', 'accommodation.hotel']",0
+Pharoah Egypt Hotel,Giza,Omar Tousoun Street,31.20750679,30.06264385,"Pharoah Egypt Hotel, Omar Tousoun Street, Meet Okba, Giza, 12658, Egypt","['accommodation', 'accommodation.hotel', 'building', 'building.accommodation']",0
+Pharoah Egypt Hotel,Giza,Omar Tousoun Street,31.20750679,30.06264385,"Pharoah Egypt Hotel, Omar Tousoun Street, Meet Okba, Giza, 12658, Egypt","['accommodation', 'accommodation.hotel', 'building', 'building.accommodation']",0
+Pier 88,Red Sea,Ahmed Ragab Street,33.6746353,27.4087177,"Pier 88, Ahmed Ragab Street, Gamsha, 84513, Egypt","['catering', 'catering.restaurant']",0
+Pinci Cafe,Giza,Al Bahr Al Aazam Street,31.2156034,29.9974947,"Pinci Cafe, Al Bahr Al Aazam Street, Giza, 12516, Egypt","['catering', 'catering.restaurant']",0
+Pistachio Cafe & Restaurant,Cairo,Street 18,31.2685167,29.9591201,"Pistachio Cafe & Restaurant, Street 18, Cairo, 11431, Egypt","['catering', 'catering.restaurant']",0
+Pizza Biti,Aswan,Medan Mahata Aswan Street,32.9017787,24.100329,"Pizza Biti, Medan Mahata Aswan Street, Saleh Gahin, 81543, Egypt","['catering', 'catering.restaurant']",0
+Pizza Hut,Cairo,Hafez Ramadan Street,31.3447016,30.0680188,"Pizza Hut, Hafez Ramadan Street, Cairo, 11391, Egypt","['catering', 'catering.restaurant', 'catering.restaurant.pizza']",0
+Pizza Hut,Cairo,Ismailia Road,31.7227163,30.2414796,"Pizza Hut, Ismailia Road, Cairo, 44629, Egypt","['catering', 'catering.restaurant', 'catering.restaurant.pizza']",0
+Pizza Hut,Cairo,Abbas Al Aqad Street,31.3364074,30.0664872,"Pizza Hut, 9;15B Abbas Al Aqad Street, Nasr City, Cairo, 11765, Egypt","['catering', 'catering.restaurant', 'catering.restaurant.pizza']",0
+Pizza Hut,Giza,Al Batal Ahmed Abd Al Aziz Street,31.2041245,30.0551224,"Pizza Hut, Al Batal Ahmed Abd Al Aziz Street, El Agouza, Cairo, 12654, Egypt","['catering', 'catering.restaurant', 'catering.restaurant.pizza']",0
+Pizza Hut,Suez,"Side Suez, Ain Sokhna Road",32.3420661,29.6930394,"Pizza Hut, Side Suez, Ain Sokhna Road, Ain Sokhna, Egypt","['catering', 'catering.fast_food']",0
+Pizza Hut,Giza,Al Markazy Axis,30.9443932,29.9717459,"Pizza Hut, Al Markazy Axis, 3rd District, 6th of October, 12596, Egypt","['catering', 'catering.restaurant', 'catering.restaurant.pizza']",0
+Pizza Hut,Cairo,Street 9,31.260742,29.9570981,"Pizza Hut, 75 Street 9, Ma‘di Al Khahiri, Cairo, 11728, Egypt","['catering', 'catering.restaurant', 'catering.restaurant.pizza']",0
+Pizza Hut,Cairo,Al Nasr Street,31.284008,29.9760919,"Pizza Hut, Al Nasr Street, Cairo, 11742, Egypt","['catering', 'catering.restaurant', 'catering.restaurant.pizza']",0
+Pizza Hut,Cairo,Al Mouarikh Mohamed Refaat Street,31.3705019,30.1261531,"Pizza Hut, Al Mouarikh Mohamed Refaat Street, Cairo, 11843, Egypt","['catering', 'catering.restaurant', 'catering.restaurant.pizza']",0
+Pizza Hut,Suez,"Side Suez, Ain Sokhna Road",32.3420661,29.6930394,"Pizza Hut, Side Suez, Ain Sokhna Road, Ain Sokhna, Egypt","['catering', 'catering.fast_food']",0
+Pizza Hut,Suez,Al Shohda Street,32.5541847,29.9636395,"Pizza Hut, Al Shohda Street, Suez, 43211, Egypt","['catering', 'catering.restaurant', 'catering.restaurant.pizza']",0
+Pizza King,Cairo,Borhan Street,31.3357708,29.8430775,"Pizza King, Borhan Street, Cairo, 11723, Egypt","['catering', 'catering.fast_food']",0
+Plateao Beachbar,Red Sea,"Al Qusair, Marsa Aalam Road",34.61365279,25.59963925,"Plateao Beachbar, Al Qusair, Marsa Aalam Road, Egypt","['building', 'building.catering', 'catering', 'catering.restaurant']",0
+Ponte Vecchio,Suez,"Side Suez, Ain Sokhna Road",32.3580844,29.6723577,"Ponte Vecchio, Side Suez, Ain Sokhna Road, Ain Sokhna, Egypt","['catering', 'catering.restaurant']",0
+Potato and Zlabaa,Aswan,Abtal Al Tahrir Street,32.8964469,24.0919832,"Potato and Zlabaa, Abtal Al Tahrir Street, Othman Ahmed Ibrahim, 81511, Egypt","['catering', 'catering.fast_food']",0
+Prince Krish,Giza,Madrasa Geel 2000 Street,30.9443885,29.9667613,"Prince Krish, Madrasa Geel 2000 Street, 2nd District, 6th of October, 12596, Egypt","['catering', 'catering.restaurant', 'catering.restaurant.kebab']",0
+Promodoro Restaurant,Red Sea,"Al Qusair, Marsa Aalam Road",34.606489,25.5990366,"Promodoro Restaurant, Al Qusair, Marsa Aalam Road, Egypt","['catering', 'catering.restaurant']",0
+Pure Cafe,Cairo,Ismail Mohamed Street,31.220359,30.0636091,"Pure Cafe, Ismail Mohamed Street, Al-Sabtiyya, 11568, Egypt","['catering', 'catering.cafe']",0
+pyramids family inn,Giza,Al Salam Street,31.1437447,29.9775111,"pyramids family inn, 2 Al Salam Street, Kom al Akhdar, Giza, 12125, Egypt","['accommodation', 'accommodation.hotel']",0
+pyramids family inn,Giza,Al Salam Street,31.1437447,29.9775111,"pyramids family inn, 2 Al Salam Street, Kom al Akhdar, Giza, 12125, Egypt","['accommodation', 'accommodation.hotel']",0
+Pyramids Inn,Giza,Ibn Touloun Street,31.1438038,29.9727205,"Pyramids Inn, 12 Ibn Touloun Street, Nazlet al Batran, Giza, 12557, Egypt","['accommodation', 'accommodation.hotel']",0
+Pyramids Inn,Giza,Ibn Touloun Street,31.1438038,29.9727205,"Pyramids Inn, 12 Ibn Touloun Street, Nazlet al Batran, Giza, 12557, Egypt","['accommodation', 'accommodation.hotel']",0
+Pyramids Loft Guesthouse,Giza,Al Salam Street,31.1435767,29.975948,"Pyramids Loft Guesthouse, Al Salam Street, Kom al Akhdar, Giza, 12125, Egypt","['accommodation', 'accommodation.hotel']",0
+Pyramids Loft Guesthouse,Giza,Al Salam Street,31.1435767,29.975948,"Pyramids Loft Guesthouse, Al Salam Street, Kom al Akhdar, Giza, 12125, Egypt","['accommodation', 'accommodation.hotel']",0
+pyramids Overlook Inn,Giza,Bni Sofyan Street,31.1403401,29.975786,"pyramids Overlook Inn, Bni Sofyan Street, Kom al Akhdar, Giza, 12125, Egypt","['accommodation', 'accommodation.hotel']",0
+Pyramids Park Resort Cairo,Giza,"Cairo, Alexandria Desert Road",31.1160362,30.0006064,"Pyramids Park Resort Cairo, Cairo, Alexandria Desert Road, Remaya Square, 12556, Egypt","['accommodation', 'accommodation.hotel']",0
+Pyramids Park Resort Cairo,Giza,"Cairo, Alexandria Desert Road",31.1160362,30.0006064,"Pyramids Park Resort Cairo, Cairo, Alexandria Desert Road, Remaya Square, 12556, Egypt","['accommodation', 'accommodation.hotel']",0
+Pyramids Planet Hotel,Giza,Street 9,31.1079449,29.9614768,"Pyramids Planet Hotel, Street 9, Giza, 12559, Egypt","['accommodation', 'accommodation.hotel']",0
+Pyramids Planet Hotel,Giza,Street 9,31.1079449,29.9614768,"Pyramids Planet Hotel, Street 9, Giza, 12559, Egypt","['accommodation', 'accommodation.hotel']",0
+Pyramids plateau inn,Giza,Abou Al Houl Al Syahi Western Street,31.141815,29.9760233,"Pyramids plateau inn, 2 Abou Al Houl Al Syahi Western Street, Kom al Akhdar, Giza, 12557, Egypt","['accommodation', 'accommodation.hotel', 'internet_access']",0
+Pyramids plateau inn,Giza,Abou Al Houl Al Syahi Western Street,31.141815,29.9760233,"Pyramids plateau inn, 2 Abou Al Houl Al Syahi Western Street, Kom al Akhdar, Giza, 12557, Egypt","['accommodation', 'accommodation.hotel', 'internet_access']",0
+Pyramids View apartment,Giza,Yehya Abd Al Naby Street,31.1415906,29.9742409,"Pyramids View apartment, 6 Yehya Abd Al Naby Street, Nazlet al Batran, Giza, 12557, Egypt","['accommodation', 'accommodation.hotel']",0
+Pyramids View apartment,Giza,Yehya Abd Al Naby Street,31.1415906,29.9742409,"Pyramids View apartment, 6 Yehya Abd Al Naby Street, Nazlet al Batran, Giza, 12557, Egypt","['accommodation', 'accommodation.hotel']",0
+Pyramids View Inn,Giza,Abou Al Houl Al Syahi Western Street,31.14114227,29.9748143,"Pyramids View Inn, Abou Al Houl Al Syahi Western Street, Kom al Akhdar, Giza, 12125, Egypt","['accommodation', 'accommodation.hotel', 'building', 'building.accommodation']",0
+Pyramids View Inn,Giza,Abou Al Houl Al Syahi Western Street,31.14114227,29.9748143,"Pyramids View Inn, Abou Al Houl Al Syahi Western Street, Kom al Akhdar, Giza, 12125, Egypt","['accommodation', 'accommodation.hotel', 'building', 'building.accommodation']",0
+Rainbow Zalabia,Cairo,Madinaty Road,31.64193168,30.09592815,"Rainbow Zalabia, Madinaty Road, Cairo, 19519, Egypt","['building', 'building.catering', 'catering', 'catering.restaurant']",0
+Ramses Hilton,Cairo,Al Ghelal Street,31.23192005,30.0505894,"Ramses Hilton, 1115 Al Ghelal Street, Boulak, Cairo, 12344, Egypt","['accommodation', 'accommodation.hotel', 'building', 'building.accommodation', 'internet_access', 'wheelchair', 'wheelchair.yes']",98
+Ramses Hilton,Cairo,Al Ghelal Street,31.23192005,30.0505894,"Ramses Hilton, 1115 Al Ghelal Street, Boulak, Cairo, 12344, Egypt","['accommodation', 'accommodation.hotel', 'building', 'building.accommodation', 'internet_access', 'wheelchair', 'wheelchair.yes']",98
+ras sudr,South Sinai,"Ras Sedr, Al Tour Road",32.8555852,29.3009087,"Moon Beach Restaurant, Ras Sedr, Al Tour Road, Lagia Concession, Abu Zenima, Egypt","['catering', 'catering.restaurant', 'internet_access']",0
+Ratios,Cairo,Street 11,31.2643904,29.9545485,"Ratios, 10B Street 11, Ma‘di Al Khahiri, Cairo, 11431, Egypt","['commercial', 'commercial.food_and_drink', 'commercial.food_and_drink.bakery']",0
+RDNA,Cairo,Street 254,31.2763249,29.9616111,"RDNA, Street 254, Cairo, 11431, Egypt","['commercial', 'commercial.food_and_drink', 'commercial.food_and_drink.deli', 'commercial.food_and_drink.health_food']",0
+Regent House Hotel,Cairo,Al Shai Al Hendy Passage,31.2396366,30.048999,"Regent House Hotel, 2 Al Shai Al Hendy Passage, Bab al Luq, Cairo, 42801, Egypt","['accommodation', 'accommodation.hotel', 'internet_access']",0
+Regent House Hotel,Cairo,Al Shai Al Hendy Passage,31.2396366,30.048999,"Regent House Hotel, 2 Al Shai Al Hendy Passage, Bab al Luq, Cairo, 42801, Egypt","['accommodation', 'accommodation.hotel', 'internet_access']",0
+Rest,Red Sea,Street 1,33.0550706,28.3513498,"Rest, Street 1, Gharib Cape, 84715, Egypt","['catering', 'catering.cafe']",0
+Restaurant Aqua Palms,Red Sea,"Hurghada, Ismailia Road",33.6995696,27.3228291,"Restaurant Aqua Palms, Hurghada, Ismailia Road, Gamsha, Egypt","['catering', 'catering.restaurant', 'internet_access']",0
+Retro,Giza,Suliman Abaza Street,31.2034331,30.0486883,"Retro, Suliman Abaza Street, El Mohandesin, Giza, 12615, Egypt","['catering', 'catering.restaurant']",0
+"rich coffee, little bit expensive but nice people",Aswan,Kornish Al Nile Street,32.8950781,24.0900037,"rich coffee, little bit expensive but nice people, 83 Kornish Al Nile Street, Abd Al Aazim Hassn, 81511, Egypt","['catering', 'catering.cafe', 'internet_access']",0
+Rihan,Cairo,Street 9,31.2662482,29.9513911,"Rihan, Street 9, Cairo, 11431, Egypt","['catering', 'catering.restaurant']",0
+Rokn Farouk,Cairo,Rokn Al Farouq Square,31.2948309,29.8470384,"Rokn Farouk, Rokn Al Farouq Square, Cairo, 11918, Egypt","['entertainment', 'entertainment.museum']",0
+ronda,Red Sea,Hala'ib W Shalateen Road,35.4281343,24.2057256,"ronda, Hala'ib W Shalateen Road, Ash Shalatin, Egypt","['catering', 'catering.restaurant']",0
+Royal pyramids Inn,Giza,Al Al Farazdq Street,31.1414565,29.9740365,"Royal pyramids Inn, 5 Al Al Farazdq Street, Nazlet al Batran, Giza, 12557, Egypt","['accommodation', 'accommodation.hotel']",0
+Royal pyramids Inn,Giza,Al Al Farazdq Street,31.1414565,29.9740365,"Royal pyramids Inn, 5 Al Al Farazdq Street, Nazlet al Batran, Giza, 12557, Egypt","['accommodation', 'accommodation.hotel']",0
+Royal Residence Hotel Suites & Apartments,Cairo,Street 18,31.26929595,29.9584158,"Royal Residence Hotel Suites & Apartments, 11 Street 18, Cairo, 11728, Egypt","['accommodation', 'accommodation.hotel', 'building', 'building.accommodation']",0
+Royal Residence Hotel Suites & Apartments,Cairo,Street 18,31.26929595,29.9584158,"Royal Residence Hotel Suites & Apartments, 11 Street 18, Cairo, 11728, Egypt","['accommodation', 'accommodation.hotel', 'building', 'building.accommodation']",0
+Rumah Makan Bandung,Cairo,Mohamed Farid Abou Hadid Street,31.3359696,30.0436516,"Rumah Makan Bandung, Mohamed Farid Abou Hadid Street, Nasr City, Cairo, 11717, Egypt","['catering', 'catering.restaurant']",0
+Sabeh,Cairo,Moustafa Safwat Street,31.3393706,29.8460372,"Sabeh, Moustafa Safwat Street, Cairo, 11421, Egypt","['commercial', 'commercial.food_and_drink', 'commercial.food_and_drink.cheese_and_dairy']",0
+Sachi,Cairo,Cleopatra Street,31.3250202,30.0881147,"Sachi, 3 Cleopatra Street, Heliopolis, Cairo, 11737, Egypt","['catering', 'catering.restaurant']",0
+Safir Hotel,Giza,Refaah Street,31.213403,30.0351353,"Safir Hotel, Refaah Street, Dokki, Giza, 12612, Egypt","['accommodation', 'accommodation.hotel']",0
+Safir Hotel,Giza,Refaah Street,31.2138502,30.0353398,"Safir Hotel, Refaah Street, Dokki, Giza, 12612, Egypt","['accommodation', 'accommodation.hotel']",0
+Safir Hotel,Giza,Refaah Street,31.213403,30.0351353,"Safir Hotel, Refaah Street, Dokki, Giza, 12612, Egypt","['accommodation', 'accommodation.hotel']",0
+Safir Hotel,Giza,Refaah Street,31.2138502,30.0353398,"Safir Hotel, Refaah Street, Dokki, Giza, 12612, Egypt","['accommodation', 'accommodation.hotel']",0
+Sahara Inn,Red Sea,"Al Zaafarana, Ra's Ghareb Road",32.6586369,29.1132378,"Sahara Inn, Al Zaafarana, Ra's Ghareb Road, Egypt","['catering', 'catering.restaurant']",0
+Saigon Vietnamese Restaurant,Red Sea,Ahmed Ragab Street,33.67379036,27.4071507,"Saigon Vietnamese Restaurant, Ahmed Ragab Street, Aj Jona, 84513, Egypt","['building', 'building.catering', 'catering', 'catering.restaurant', 'catering.restaurant.vietnamese']",0
+Sakkara Country Club,Giza,"Zaweya Abou Moslem, Saqara Road",31.185601,29.9140543,"Sakkara Country Club, Zaweya Abou Moslem, Saqara Road, Abu Sir, 12947, Egypt","['accommodation', 'accommodation.hotel']",0
+Sakkara Country Club,Giza,"Zaweya Abou Moslem, Saqara Road",31.185601,29.9140543,"Sakkara Country Club, Zaweya Abou Moslem, Saqara Road, Abu Sir, 12947, Egypt","['accommodation', 'accommodation.hotel']",0
+Salah Ed-Din,Aswan,Kornish Al Nile Street,32.89526401,24.09093945,"Salah Ed-Din, Kornish Al Nile Street, Othman Ahmed Ibrahim, 81543, Egypt","['building', 'building.catering', 'catering', 'catering.restaurant', 'catering.restaurant.regional']",0
+Salimos,Cairo,Street 270,31.2800721,29.9819608,"Salimos, Street 270, Cairo, 11742, Egypt","['catering', 'catering.restaurant']",0
+San Remo,South Sinai,Al Salam Street,32.7115672,29.5855734,"San Remo, Al Salam Street, Ras Sudr, 46612, Egypt","['catering', 'catering.restaurant', 'catering.restaurant.pizza']",0
+Sanctuary of Hatshepsut and Thutmoses I,Luxor,Maabad Hatshebsout Road,32.60726192,25.73813035,"The First Terrace, Maabad Hatshebsout Road, New Al Qarnh City, 85958, Egypt","['building', 'building.tourism', 'entertainment', 'entertainment.museum']",0
+Sanctuary of Hatshepsut and Thutmoses I,Luxor,Maabad Hatshebsout Road,32.60726192,25.73813035,"The First Terrace, Maabad Hatshebsout Road, New Al Qarnh City, 85958, Egypt","['building', 'building.tourism', 'entertainment', 'entertainment.museum']",0
+Sara Inn,Cairo,Al Bostan Al Saedi Street,31.23907609,30.04661835,"Sara Inn, 1 Al Bostan Al Saedi Street, Abdin, Cairo, 11513, Egypt","['accommodation', 'accommodation.hotel']",0
+Sara Inn,Cairo,Al Bostan Al Saedi Street,31.23907609,30.04661835,"Sara Inn, 1 Al Bostan Al Saedi Street, Abdin, Cairo, 11513, Egypt","['accommodation', 'accommodation.hotel']",0
+Sattva Steps,Cairo,Ahmed Heshmat Street,31.2209509,30.0678913,"Sattva Steps, 35 Ahmed Heshmat Street, Al-Sabtiyya, 11568, Egypt","['catering', 'catering.restaurant']",0
+Sawy Bakery & Sweet,Cairo,Street 81,31.2598526,29.958433,"Sawy Bakery & Sweet, Street 81, Ma‘di Al Khahiri, Cairo, 11728, Egypt","['commercial', 'commercial.food_and_drink', 'commercial.food_and_drink.bakery']",0
+Sea Breeze Grill,Red Sea,"Al Qusair, Marsa Aalam Road",34.3800333,25.9536246,"Sea Breeze Grill, Al Qusair, Marsa Aalam Road, Al Qusair City, Egypt","['catering', 'catering.restaurant', 'catering.restaurant.barbecue']",0
+Sea Gull,Giza,Kornish Al Nil Street,31.21926606,30.04474465,"Sea Gull, Kornish Al Nil Street, El Agouza, Giza, 12411, Egypt","['building', 'building.catering', 'catering', 'catering.restaurant']",0
+Seafood restaurant $,Aswan,Al Sadat Road,32.8874974,24.0722919,"Seafood restaurant $, Al Sadat Road, Nagaa Al Mahata, 81531, Egypt","['catering', 'catering.restaurant']",0
+Seagull,Red Sea,Mövenpick El Qusair,34.2465624,26.1550477,"Seagull, Mövenpick El Qusair, Al Qusair City, 84712, Egypt","['catering', 'catering.restaurant']",0
+Seven Eleven Heru Pyramids View Hotel,Giza,Sameh Abdel Hakam Street,31.1439583,29.9540856,"Seven Eleven Heru Pyramids View Hotel, 7 Sameh Abdel Hakam Street, Cairo, 12557, Egypt","['accommodation', 'accommodation.hotel', 'internet_access']",0
+Seven Eleven Heru Pyramids View Hotel,Giza,Sameh Abdel Hakam Street,31.1439583,29.9540856,"Seven Eleven Heru Pyramids View Hotel, 7 Sameh Abdel Hakam Street, Cairo, 12557, Egypt","['accommodation', 'accommodation.hotel', 'internet_access']",0
+Seven Seas,Red Sea,Hala'ib W Shalateen Road,35.4277747,24.2053057,"Seven Seas, Hala'ib W Shalateen Road, Ash Shalatin, Egypt","['catering', 'catering.restaurant']",0
+Shabrawy,Eastern,Omar Ibn Al Khatab Street,31.7536747,30.306925,"Shabrawy, Omar Ibn Al Khatab Street, 63, 10th of Ramadan, 44629, Egypt","['catering', 'catering.restaurant']",0
+Shaheen Cofee,Giza,Imam Ibrahim Street,31.2117776,30.0425128,"Shaheen Cofee, Imam Ibrahim Street, Dokki, Giza, 12611, Egypt","['commercial', 'commercial.food_and_drink', 'commercial.food_and_drink.coffee_and_tea']",0
+Shamy Number One,Cairo,Street 9,31.2644375,29.9523798,"Shamy Number One, Street 9, Ma‘di Al Khahiri, Cairo, 11431, Egypt","['catering', 'catering.fast_food', 'catering.fast_food.kebab']",0
+shikh el araab (saif),Giza,Tersa Street,31.1622767,29.9897928,"shikh el araab (saif), 24 Tersa Street, Kom al Akhdar, Giza, 12574, Egypt","['catering', 'catering.restaurant', 'halal']",0
+Shiva Indian Restaurant,Cairo,Mohamed Abaid Street,31.338793,30.0879398,"Shiva Indian Restaurant, 11 Mohamed Abaid Street, Heliopolis, Cairo, 11736, Egypt","['catering', 'catering.restaurant']",0
+Simonds Bakery & Cafè,Giza,Kornish Al Nil Street,31.2195991,30.0408365,"Simonds Bakery & Cafè, Kornish Al Nil Street, El Agouza, Giza, 12411, Egypt","['commercial', 'commercial.food_and_drink', 'commercial.food_and_drink.bakery']",0
+Sinai Star Resort,South Sinai,"Ras Sedr, Al Tour Road",32.7563174,29.4453913,"Sinai Star Resort, Ras Sedr, Al Tour Road, Ras Sudr, Egypt","['accommodation', 'accommodation.hotel']",0
+"Sisha Bar ""Bedouin Tent""",Red Sea,"Al Qusair, Marsa Aalam Road",34.5987368,25.6074171,"Sisha Bar ""Bedouin Tent"", Al Qusair, Marsa Aalam Road, Egypt","['catering', 'catering.cafe', 'internet_access']",0
+Small Cafe,Giza,"Al Giza, Al Wahat Al Bahareya Road",29.6621676,29.3301527,"Small Cafe, Al Giza, Al Wahat Al Bahareya Road, Egypt","['catering', 'catering.cafe']",0
+Snack,Red Sea,"Al Qusair, Marsa Aalam Road",34.79095448,25.25401,"Snack, Al Qusair, Marsa Aalam Road, Egypt","['building', 'building.catering', 'catering', 'catering.restaurant']",0
+Snack bar,Red Sea,"Al Qusair, Marsa Aalam Road",34.7856324,25.2554146,"Snack bar, Al Qusair, Marsa Aalam Road, Egypt","['catering', 'catering.fast_food', 'catering.fast_food.pizza']",0
+Snow Cafe,Giza,Al Mahrousa Street,31.21240463,30.063416,"Snow Cafe, Al Mahrousa Street, El Agouza, Giza, 12658, Egypt","['building', 'building.catering', 'building.industrial', 'catering', 'catering.cafe']",0
+Sofitel,Cairo,Montazah Al Gezira Street,31.22461697,30.0387174,"Sofitel Al-Gezirah Cairo, 3 Montazah Al Gezira Street, Bab al Luq, 11568, Egypt","['accommodation', 'accommodation.hotel', 'building', 'building.accommodation', 'internet_access', 'wheelchair', 'wheelchair.yes']",0
+Sofitel,Cairo,Montazah Al Gezira Street,31.22461697,30.0387174,"Sofitel Al-Gezirah Cairo, 3 Montazah Al Gezira Street, Bab al Luq, 11568, Egypt","['accommodation', 'accommodation.hotel', 'building', 'building.accommodation', 'internet_access', 'wheelchair', 'wheelchair.yes']",0
+Sofra,Red Sea,"Al Qusair, Marsa Aalam Road",34.609774,25.5985942,"Sofra, Al Qusair, Marsa Aalam Road, Egypt","['catering', 'catering.restaurant', 'catering.restaurant.turkish']",0
+Sola Cafe & Restaurant,Cairo,Moustafa Abd Al Aal Street,31.3403102,30.0795538,"Sola Cafe & Restaurant, Moustafa Abd Al Aal Street, Cairo, 11736, Egypt","['catering', 'catering.restaurant', 'catering.restaurant.french']",0
+Soliah Restaurant,Aswan,25,32.8829807,24.0231607,"Soliah Restaurant, 25, Shash, 81531, Egypt","['catering', 'catering.restaurant']",0
+Solo Mart,South Sinai,Al Salam Street,32.7192802,29.5889722,"Solo Mart, 99 Al Salam Street, Ras Sudr, 46612, Egypt","['commercial', 'commercial.gift_and_souvenir']",0
+Soprano,Red Sea,"Al Qusair, Marsa Aalam Road",34.7918169,25.2509252,"Soprano, Al Qusair, Marsa Aalam Road, Egypt","['catering', 'catering.restaurant', 'catering.restaurant.italian', 'catering.restaurant.pizza']",0
+Sotto Sopra,Red Sea,Ahmed Ragab Street,33.6747265,27.4078665,"Sotto Sopra, Ahmed Ragab Street, Gamsha, 84513, Egypt","['catering', 'catering.restaurant', 'catering.restaurant.pizza']",0
+Souvenir d'Egypte,Cairo,Street 9,31.2594677,29.9582589,"Souvenir d'Egypte, 84 Street 9, Ma‘di Al Khahiri, Cairo, 11728, Egypt","['commercial', 'commercial.gift_and_souvenir']",0
+Spectra,Cairo,Al Zahaby Street,31.3126865,30.0892244,"Spectra, Al Zahaby Street, Al-Zaitoun, Cairo, 11774, Egypt","['catering', 'catering.restaurant']",0
+spectra,Cairo,Mohamed Hussein Heikal Street,31.3388459,30.0581007,"spectra, Mohamed Hussein Heikal Street, Nasr City, Cairo, 11765, Egypt","['catering', 'catering.restaurant']",0
+Spectra,Giza,Side Al Markazy Axis,30.9181924,29.9587929,"Spectra, Side Al Markazy Axis, 11th District, 6th of October, 12566, Egypt","['catering', 'catering.restaurant', 'catering.restaurant.international']",0
+star plaza guest house,Giza,Doctor Michael Bakhum Street,31.2055397,30.0391947,"star plaza guest house, Doctor Michael Bakhum Street, Dokki, Giza, 12311, Egypt","['accommodation', 'accommodation.hotel']",0
+star plaza guest house,Giza,Doctor Michael Bakhum Street,31.2055397,30.0391947,"star plaza guest house, Doctor Michael Bakhum Street, Dokki, Giza, 12311, Egypt","['accommodation', 'accommodation.hotel']",0
+State Bakery,Aswan,East Al Bandr Street,32.8980355,24.0843479,"State Bakery, East Al Bandr Street, Abd Al Hafiz Abou Qedies, 81511, Egypt","['commercial', 'commercial.food_and_drink', 'commercial.food_and_drink.bakery']",0
+Steigenberger Pyramids Cairo,Giza,"Cairo, Alexandria Desert Road",31.12526114,29.9938693,"Steigenberger Pyramids Cairo, Cairo, Alexandria Desert Road, Remaya Square, 12572, Egypt","['accommodation', 'accommodation.hotel']",0
+Steigenberger Pyramids Cairo,Giza,"Cairo, Alexandria Desert Road",31.12526114,29.9938693,"Steigenberger Pyramids Cairo, Cairo, Alexandria Desert Road, Remaya Square, 12572, Egypt","['accommodation', 'accommodation.hotel']",0
+Sudan Restaurant,Cairo,Adly Street,31.24579134,30.05090055,"Sudan Restaurant, 6 Adly Street, Abdin, Cairo, 11518, Egypt","['building', 'building.catering', 'catering', 'catering.restaurant', 'catering.restaurant.african']",0
+Sudanese coffee,Aswan,Street 6,32.8640546,24.0605888,"Jabbana, Street 6, Nagaa Al Mahata, 81531, Egypt","['catering', 'catering.cafe']",0
+Sugar Rush,Giza,Oman Square,31.202631,30.0407336,"Sugar Rush, Oman Square, Been Al-Sarayat, Giza, 12615, Egypt","['catering', 'catering.cafe']",0
+Suisse Hotel,Cairo,Mohamed Basyouni Street,31.2373404,30.0482677,"Suisse Hotel, 26 Mohamed Basyouni Street, Bab al Luq, Cairo, 11556, Egypt","['accommodation', 'accommodation.hotel']",0
+Suisse Hotel,Cairo,Mohamed Basyouni Street,31.2373404,30.0482677,"Suisse Hotel, 26 Mohamed Basyouni Street, Bab al Luq, Cairo, 11556, Egypt","['accommodation', 'accommodation.hotel']",0
+Sunny Restaurant,Red Sea,Inas Al Deghedi Street,33.6735839,27.3994393,"Sunny Restaurant, Inas Al Deghedi Street, Gamsha, 84513, Egypt","['catering', 'catering.restaurant']",0
+svu theater,Qena,Al Gamaah Al Ra'eisy Street,32.7425499,26.1920215,"svu theater, Al Gamaah Al Ra'eisy Street, Qena, Egypt","['entertainment', 'entertainment.culture', 'entertainment.culture.theatre']",0
+svu theater,Qena,Al Gamaah Al Ra'eisy Street,32.7425499,26.1920215,"svu theater, Al Gamaah Al Ra'eisy Street, Qena, Egypt","['entertainment', 'entertainment.culture', 'entertainment.culture.theatre']",0
+Sweet House,Cairo,Street 82,31.2592628,29.9565305,"Sweet House, Street 82, Ma‘di Al Khahiri, Cairo, 11728, Egypt","['commercial', 'commercial.food_and_drink', 'commercial.food_and_drink.bakery']",0
+Swiss Inn Pyramids Golf Resort,Giza,Al Wahat Road,31.04696387,29.9630842,"Swiss Inn Pyramids Golf Resort, Al Wahat Road, Gardina Park valley, 6th of October, 12585, Egypt","['accommodation', 'accommodation.hotel']",0
+Swiss Inn Pyramids Golf Resort,Giza,Al Wahat Road,31.04696387,29.9630842,"Swiss Inn Pyramids Golf Resort, Al Wahat Road, Gardina Park valley, 6th of October, 12585, Egypt","['accommodation', 'accommodation.hotel']",0
+Tahrir Plaza Suites Hotel,Cairo,Merit Pasha Street,31.2348627,30.0486474,"Tahrir Plaza Suites Hotel, 19 Merit Pasha Street, Bab al Luq, Cairo, 11519, Egypt","['accommodation', 'accommodation.hotel']",0
+Tahrir Plaza Suites Hotel,Cairo,Merit Pasha Street,31.2348627,30.0486474,"Tahrir Plaza Suites Hotel, 19 Merit Pasha Street, Bab al Luq, Cairo, 11519, Egypt","['accommodation', 'accommodation.hotel']",0
+Tandoor,Red Sea,Ahmed Ragab Street,33.67433018,27.40677795,"Tandoor, Ahmed Ragab Street, Gamsha, 84513, Egypt","['building', 'building.catering', 'catering', 'catering.restaurant', 'catering.restaurant.indian']",0
+TBS,Giza,Makkah Street,31.2033284,30.0485582,"TBS, Makkah Street, El Mohandesin, Giza, 12615, Egypt","['commercial', 'commercial.food_and_drink', 'commercial.food_and_drink.bakery']",0
+Teba Bakery,Giza,Abou Al Mahasen Al Shazly Street,31.21080373,30.0604968,"Teba Bakery, 66 Abou Al Mahasen Al Shazly Street, El Agouza, Giza, 12654, Egypt","['building', 'building.commercial', 'commercial', 'commercial.food_and_drink', 'commercial.food_and_drink.bakery']",0
+Teda Fun Valley,Suez,"Side Suez, Ain Sokhna Road",32.31170188,29.67326765,"Teda Fun Valley, Side Suez, Ain Sokhna Road, Ain Sokhna, Egypt","['entertainment', 'entertainment.theme_park']",0
+TeePee home accessories,Cairo,Street 231,31.2767383,29.9618201,"TeePee home accessories, Street 231, Cairo, 11431, Egypt","['commercial', 'commercial.gift_and_souvenir']",0
+Temaya,Suez,"Side Suez, Ain Sokhna Road",32.3592971,29.6709644,"Temaya, Side Suez, Ain Sokhna Road, Ain Sokhna, Egypt","['catering', 'catering.restaurant', 'catering.restaurant.fish']",0
+TGI Friday's,Giza,Al Nil Street,31.2183236,30.0256919,"TGI Friday's, Al Nil Street, Dokki, Giza, 12612, Egypt","['catering', 'catering.restaurant', 'catering.restaurant.american']",0
+The African club restaurant and cafe,Aswan,Al Masaken Street,32.8854747,24.0631753,"The African club restaurant and cafe, Al Masaken Street, Nagaa Al Mahata, 81531, Egypt","['catering', 'catering.restaurant']",0
+The Bakery By Marriott,Cairo,Street 9,31.2601368,29.9574805,"The Bakery By Marriott, 76A Street 9, Ma‘di Al Khahiri, Cairo, 11728, Egypt","['commercial', 'commercial.food_and_drink', 'commercial.food_and_drink.bakery']",0
+The Bakery Shop (TBS),Cairo,Street 9,31.2614055,29.9557967,"The Bakery Shop (TBS), Street 9, Ma‘di Al Khahiri, Cairo, 11431, Egypt","['commercial', 'commercial.food_and_drink', 'commercial.food_and_drink.bakery']",0
+The Bread Basket - German Bread & Sweets,Cairo,Street 81,31.2607599,29.9589204,"The Bread Basket - German Bread & Sweets, Street 81, Ma‘di Al Khahiri, Cairo, 11728, Egypt","['commercial', 'commercial.food_and_drink', 'commercial.food_and_drink.bakery']",0
+The Burger Bar,Red Sea,Ahmed Ragab Street,33.6753048,27.4068848,"The Burger Bar, Ahmed Ragab Street, Gamsha, 84513, Egypt","['catering', 'catering.fast_food', 'catering.fast_food.burger']",0
+The Coffee Bean & Tea Leaf,Cairo,Gamal Abd Al Naser Axis,31.404764,29.9887521,"The Coffee Bean & Tea Leaf, Gamal Abd Al Naser Axis, Cairo, 11936, Egypt","['catering', 'catering.cafe', 'catering.cafe.coffee', 'catering.cafe.coffee_shop']",0
+The Courtyard Maadi,Cairo,Extension Palestine Street,31.2848812,29.9776776,"The Courtyard Maadi, 2 Extension Palestine Street, Cairo, 11742, Egypt","['catering', 'catering.restaurant']",0
+The District Food Court,Cairo,Al Nasr Road,31.3839731,30.0915885,"The District Food Court, Al Nasr Road, Cairo, 11351, Egypt","['catering', 'catering.restaurant']",0
+The Grill (former: Oriental Grill),Red Sea,Inas Al Deghedi Street,33.6763557,27.3955555,"The Grill (former: Oriental Grill), Inas Al Deghedi Street, Aj Jona, 84513, Egypt","['catering', 'catering.restaurant', 'catering.restaurant.barbecue']",0
+The King,Giza,Al Sad Al Aali Street,31.2134027,30.0429255,"The King, Al Sad Al Aali Street, Dokki, Giza, 12611, Egypt","['commercial', 'commercial.food_and_drink', 'commercial.food_and_drink.drinks']",0
+The Location,Cairo,Asmaa Zaghloul Street,31.3181851,30.077194,"The Location, 20 Asmaa Zaghloul Street, Cairo, 11759, Egypt","['catering', 'catering.cafe']",0
+The Oasis,Red Sea,"Al Qusair, Marsa Aalam Road",34.7832592,25.2665099,"The Oasis, Al Qusair, Marsa Aalam Road, Egypt","['catering', 'catering.restaurant', 'internet_access']",0
+The Setup,Giza,Al Atba' Street,31.1993324,30.0467519,"The Setup, Al Atba' Street, El Mohandesin, Giza, 12615, Egypt","['commercial', 'commercial.gift_and_souvenir']",0
+The Shepherd Hotel,Cairo,Abd Al Qader Hamza Street,31.23173468,30.04214105,"The Shepherd Hotel, Abd Al Qader Hamza Street, Bab al Luq, Cairo, 11519, Egypt","['accommodation', 'accommodation.hotel', 'building', 'building.accommodation']",0
+The Shepherd Hotel,Cairo,Abd Al Qader Hamza Street,31.231877,30.0420866,"The Shepherd Hotel, Abd Al Qader Hamza Street, Bab al Luq, Cairo, 11519, Egypt","['accommodation', 'accommodation.hotel', 'tourism', 'tourism.sights']",0
+The Shepherd Hotel,Cairo,Abd Al Qader Hamza Street,31.23173468,30.04214105,"The Shepherd Hotel, Abd Al Qader Hamza Street, Bab al Luq, Cairo, 11519, Egypt","['accommodation', 'accommodation.hotel', 'building', 'building.accommodation']",0
+The Shepherd Hotel,Cairo,Abd Al Qader Hamza Street,31.231877,30.0420866,"The Shepherd Hotel, Abd Al Qader Hamza Street, Bab al Luq, Cairo, 11519, Egypt","['accommodation', 'accommodation.hotel', 'tourism', 'tourism.sights']",0
+The SnackShack El Gouna,Red Sea,Inas Al Deghedi Street,33.6752077,27.3960452,"The SnackShack El Gouna, Inas Al Deghedi Street, Aj Jona, 84513, Egypt","['catering', 'catering.restaurant', 'vegan', 'vegetarian']",0
+The Square Boutique Hotel,Cairo,Mohamed Sabry Abou Alam Street,31.238954,30.0472745,"The Square Boutique Hotel, Mohamed Sabry Abou Alam Street, Bab al Luq, Cairo, 11613, Egypt","['accommodation', 'accommodation.hotel']",0
+The Square Boutique Hotel,Cairo,Mohamed Sabry Abou Alam Street,31.238954,30.0472745,"The Square Boutique Hotel, Mohamed Sabry Abou Alam Street, Bab al Luq, Cairo, 11613, Egypt","['accommodation', 'accommodation.hotel']",0
+The St. Regis Cairo,Cairo,Kornish Al Nil Street,31.227601,30.0630181,"The St. Regis Cairo, 1189 Kornish Al Nil Street, Al-Sabtiyya, Cairo, 11624, Egypt","['accommodation', 'accommodation.hotel']",0
+The St. Regis Cairo,Cairo,Kornish Al Nil Street,31.227601,30.0630181,"The St. Regis Cairo, 1189 Kornish Al Nil Street, Al-Sabtiyya, Cairo, 11624, Egypt","['accommodation', 'accommodation.hotel']",0
+Theatre Fauzi Fauzi,Aswan,Kornish Al Nile Street,32.8996358,24.1131659,"Theatre Fauzi Fauzi, Kornish Al Nile Street, Saleh Gahin, 81543, Egypt","['entertainment', 'entertainment.culture', 'entertainment.culture.theatre']",0
+Tiap Hous,Giza,Mohamed Khalaf Street,31.2140328,30.0416081,"Tiap Hous, Mohamed Khalaf Street, Dokki, Giza, 12611, Egypt","['accommodation', 'accommodation.hotel']",0
+Tiap Hous,Giza,Mohamed Khalaf Street,31.2140328,30.0416081,"Tiap Hous, Mohamed Khalaf Street, Dokki, Giza, 12611, Egypt","['accommodation', 'accommodation.hotel']",0
+Tiba Pyramids Hotel,Giza,Abou Al Houl Al Syahi Street,31.1414737,29.9865912,"Tiba Pyramids Hotel, Abou Al Houl Al Syahi Street, Kom al Akhdar, Remaya Square, 12512, Egypt","['accommodation', 'accommodation.hotel']",0
+Tiba Pyramids Hotel,Giza,Abou Al Houl Al Syahi Street,31.1414737,29.9865912,"Tiba Pyramids Hotel, Abou Al Houl Al Syahi Street, Kom al Akhdar, Remaya Square, 12512, Egypt","['accommodation', 'accommodation.hotel']",0
+Tie House,Aswan,Kornish Al Nile Street,32.8966993,24.0944878,"Tie House, Kornish Al Nile Street, Sherif Soliman, 81543, Egypt","['commercial', 'commercial.food_and_drink', 'commercial.food_and_drink.drinks']",0
+tigo coffee shop,Cairo,Hafez Ramadan Street,31.3415642,30.0680815,"tigo coffee shop, 3 Hafez Ramadan Street, Cairo, 11391, Egypt","['catering', 'catering.cafe', 'internet_access', 'internet_access.free']",0
+Time,Red Sea,"Hurghada, Ismailia Road",33.733366,27.3027482,"Time, Hurghada, Ismailia Road, Al Ahia', 84509, Egypt","['catering', 'catering.cafe']",0
+Tonsy Hotel,Giza,Al Tahrir Street,31.21801911,30.0394806,"Tonsy Hotel, 147 Al Tahrir Street, Dokki, Giza, 12612, Egypt","['accommodation', 'accommodation.hotel', 'building', 'building.accommodation', 'building.office']",0
+Tonsy Hotel,Giza,Al Tahrir Street,31.21801911,30.0394806,"Tonsy Hotel, 147 Al Tahrir Street, Dokki, Giza, 12612, Egypt","['accommodation', 'accommodation.hotel', 'building', 'building.accommodation', 'building.office']",0
+tortina - beyond desert,Cairo,Baha' Al Din Qaraqosh Street,31.219921,30.0569372,"tortina - beyond desert, Baha' Al Din Qaraqosh Street, Al-Sabtiyya, 11211, Egypt","['catering', 'catering.cafe']",0
+Touch Wood,Cairo,Moustafa Kamel Street,31.2604597,29.9589167,"Touch Wood, Moustafa Kamel Street, Ma‘di Al Khahiri, Cairo, 11728, Egypt","['commercial', 'commercial.gift_and_souvenir']",0
+Touristic restaurant,Aswan,Abtal Al Tahrir Street,32.90130517,24.10300715,"Touristic restaurant, Abtal Al Tahrir Street, Saleh Gahin, 81543, Egypt","['catering', 'catering.restaurant', 'catering.restaurant.regional']",0
+Trio Hotel Caroline Crillon,Giza,Surya Street,31.1949468,30.0527729,"Trio Hotel Caroline Crillon, Surya Street, El Mohandesin, Cairo, 13211, Egypt","['accommodation', 'accommodation.hotel']",0
+Trio Hotel Caroline Crillon,Giza,Surya Street,31.1949468,30.0527729,"Trio Hotel Caroline Crillon, Surya Street, El Mohandesin, Cairo, 13211, Egypt","['accommodation', 'accommodation.hotel']",0
+TuT pyramids view,Giza,Al Shaeir Street,31.1411976,29.9726784,"TuT pyramids view, Al Shaeir Street, Nazlet al Batran, Giza, 12125, Egypt","['accommodation', 'accommodation.hotel', 'internet_access']",0
+TuT pyramids view,Giza,Al Shaeir Street,31.1411976,29.9726784,"TuT pyramids view, Al Shaeir Street, Nazlet al Batran, Giza, 12125, Egypt","['accommodation', 'accommodation.hotel', 'internet_access']",0
+Twenky,Giza,Al Haram Street,31.1925112,30.0058911,"Twenky, Al Haram Street, Giza, 12555, Egypt","['commercial', 'commercial.food_and_drink', 'commercial.food_and_drink.confectionery']",0
+U Bistro & Bar,Cairo,26th July Street,31.2245875,30.0589761,"U Bistro & Bar, 26th July Street, Al-Sabtiyya, 11211, Egypt","['catering', 'catering.restaurant', 'catering.restaurant.steak_house']",0
+Uncle Sam's,Cairo,Moustafa Kamel Street,31.2604102,29.9589711,"Uncle Sam's, Moustafa Kamel Street, Ma‘di Al Khahiri, Cairo, 11728, Egypt","['catering', 'catering.restaurant', 'catering.restaurant.burger']",0
+Valencia,Cairo,Talaat Harb Street,31.23960779,30.0488426,"Valencia, 21 Talaat Harb Street, Bab al Luq, Cairo, 11519, Egypt","['accommodation', 'accommodation.hotel', 'building', 'building.accommodation']",0
+Valencia,Cairo,Talaat Harb Street,31.23960779,30.0488426,"Valencia, 21 Talaat Harb Street, Bab al Luq, Cairo, 11519, Egypt","['accommodation', 'accommodation.hotel', 'building', 'building.accommodation']",0
+Vegan in Our House,Cairo,Street 82,31.2596004,29.9566424,"Vegan in Our House, Street 82, Ma‘di Al Khahiri, Cairo, 11728, Egypt","['catering', 'catering.restaurant', 'vegan']",0
+Villa Belle Epoque,Cairo,Street 13,31.2631143,29.9595817,"Villa Belle Epoque, 63 Street 13, Ma‘di Al Khahiri, Cairo, 11728, Egypt","['accommodation', 'accommodation.hotel']",0
+Villa Belle Epoque,Cairo,Street 13,31.2631143,29.9595817,"Villa Belle Epoque, 63 Street 13, Ma‘di Al Khahiri, Cairo, 11728, Egypt","['accommodation', 'accommodation.hotel']",0
+VIOLA ROOFTOP,Giza,Al Nil Street,31.21841335,30.02512285,"VIOLA ROOFTOP, 135 Al Nil Street, Dokki, Giza, 12513, Egypt","['building', 'building.catering', 'catering', 'catering.restaurant', 'halal']",0
+Vox Cinema,Giza,Al Wahat Road,31.0184126,29.9704302,"Vox Cinema, Al Wahat Road, Gardina Park valley, 6th of October, 12585, Egypt","['entertainment', 'entertainment.cinema']",0
+Wa7ed Shawarma,Red Sea,Inas Al Deghedi Street,33.6738682,27.3962995,"Wa7ed Shawarma, Inas Al Deghedi Street, Gamsha, 84513, Egypt","['catering', 'catering.restaurant']",0
+Wax museum,Cairo,Mansour Street,31.3257085,29.8601958,"Wax museum, Mansour Street, Cairo, 11795, Egypt","['entertainment', 'entertainment.museum']",0
+white House,South Sinai,Al Mostashfa Street,32.71347065,29.58756105,"white House, 3 Al Mostashfa Street, Ras Sudr, 46612, Egypt","['accommodation', 'accommodation.hotel', 'building', 'building.accommodation', 'internet_access']",0
+Wiener Wald,Cairo,Street 9,31.2635337,29.95355,"Wiener Wald, 45 Street 9, Ma‘di Al Khahiri, Cairo, 11431, Egypt","['catering', 'catering.fast_food']",0
+Windsor,Cairo,Mohamed Bek Al Alfy Street,31.24574315,30.05343105,"Windsor, 19 Mohamed Bek Al Alfy Street, Al-Azbakeya, Cairo, 11574, Egypt","['accommodation', 'accommodation.hotel', 'building', 'building.accommodation']",0
+Windsor,Cairo,Mohamed Bek Al Alfy Street,31.24574315,30.05343105,"Windsor, 19 Mohamed Bek Al Alfy Street, Al-Azbakeya, Cairo, 11574, Egypt","['accommodation', 'accommodation.hotel', 'building', 'building.accommodation']",0
+Wissa Wassef Art Center,Giza,Al Labini Street,31.176465,29.9692025,"Wissa Wassef Art Center, Al Labini Street, Shabramant, 12841, Egypt","['entertainment', 'entertainment.museum']",0
+Wrap N Go,Cairo,Street 250,31.2708808,29.9553946,"Wrap N Go, Street 250, Cairo, 11431, Egypt","['commercial', 'commercial.gift_and_souvenir']",0
+Wunderbar,Red Sea,"Al Qusair, Marsa Aalam Road",34.6360666,25.5343099,"Wunderbar, Al Qusair, Marsa Aalam Road, Port Ghalib, Egypt","['catering', 'catering.restaurant']",0
+Zaatar w Zeit,Giza,Side 26th of July Axis,30.99114545,30.00786935,"Zaatar w Zeit, Side 26th of July Axis, El Nada Compound, 12573, Egypt","['building', 'building.catering', 'catering', 'catering.restaurant', 'catering.restaurant.regional']",0
+zed,Giza,Cairo University Street,31.21184567,30.025736,"zed, Cairo University Street, Been Al-Sarayat, Giza, 12541, Egypt","['building', 'building.catering', 'catering', 'catering.cafe']",0
+Zeera Cafe,Cairo,Street 79,31.26860095,29.9662241,"Zeera Cafe, 48 Street 79, Ma‘di Al Khahiri, Cairo, 11728, Egypt","['building', 'building.catering', 'catering', 'catering.cafe']",0
+Zest,Red Sea,"Al Qusair, Marsa Aalam Road",34.7996241,25.2165963,"Zest, Al Qusair, Marsa Aalam Road, Egypt","['catering', 'catering.restaurant']",0
+Zhara house,Aswan,Street 6,32.8626586,24.0590035,"Zhara house, Street 6, Nagaa Al Mahata, 81531, Egypt","['commercial', 'commercial.gift_and_souvenir']",0
+Ziznia,Giza,Mourad Street,31.2128602,30.0162032,"Ziznia, Mourad Street, Been Al-Sarayat, Giza, 12541, Egypt","['catering', 'catering.cafe', 'internet_access']",0
+Zooba,Cairo,Side El Orouba Axis,31.4117854,30.0177975,"Zooba, Downtown Mall Side El Orouba Axis, Cairo, 11528, Egypt","['catering', 'catering.restaurant']",0
+Zööba,Cairo,Al Saleh Ayoub Street,31.21927546,30.0609991,"Zööba, 16 Al Saleh Ayoub Street, Al-Sabtiyya, 11568, Egypt","['building', 'building.catering', 'building.residential', 'catering', 'catering.restaurant', 'catering.restaurant.regional']",0
