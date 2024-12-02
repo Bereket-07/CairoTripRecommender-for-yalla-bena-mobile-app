@@ -1,0 +1,133 @@
+Name,Type of Activity,Description,Location,OpeningTimes,OpeningTime,ClosingTime,Duration,Is_Special_Schedule,Fee_Adult_EGP,Fee_kid_EGP
+Al Azhar Park,Outdoor Activity,A large park with beautiful gardens and recreational areas.,Cairo,9:00 AM -10:00 PM  ,9:00,22:00,13,FALSE,10.0,
+Aquarium Grotto Park,Outdoor Activity,A park featuring an aquarium and scenic views.,Zamalek,9:00 AM - 5:30 PM ,9:00,17:30,8.5,FALSE,20.0,
+Family Park,Outdoor Activity,A family-friendly park with various activities.,New Cairo,9:00 AM -12:00 AM,9:00,0:00,21,FALSE,160.0,460.0
+Nile Cruise (Felucca),Outdoor Activity,Sail the Nile River at sunset.,Maadi,9:00 AM -12:00 AM,9:00,0:00,21,FALSE,24500.0,
+Zawya,Movie Screenings & Art Performances,Art-house cinema screening alternative films and local independent movies.,Downtown,Check weekly schedule,,,,TRUE,100.0,
+Magnolia Leaves of Art,Movie Screenings & Art Performances,"An art space for screenings, performances, and exhibitions.",Zamalek,11:00 AM - 11:00 PM,11:00,23:00,12,FALSE,,
+Wekalet El-Ghouri,Cultural Show,Home to the Whirling Dervishes Show with folk music.,Cairo,"Saturdays, Mondays & Wednesdays, 7:30 PM - 9:00 PM  ",7:30,21:00,15.5,FALSE,3061.5,
+Grip n Climb,Thrill-Seeking Activity,Indoor wall-climbing facility with zip-lining and rope courses.,Cairo Festival City,10:00 AM - 12:00 AM,10:00,0:00,14,FALSE,90.0,450.0
+Ski Egypt,Thrill-Seeking Activity,Indoor skiing experience in a desert country.,Mall of Egypt,10:00 AM - 11:00 PM,10:00,23:00,13,FALSE,600.0,600.0
+Autovrooom Cairo,Thrill-Seeking Activity,Amusement park for racing karts.,Obour City,2:30 PM - 12:00 AM,14:30,0:00,9.5,FALSE,584.4,584.4
+Gravity Code,Thrill-Seeking Activity,Trampoline-based activities for kids and adults.,New Cairo,10:00 AM - 11:00 PM,10:00,23:00,13,FALSE,,
+Verticality Zorbing Park,Thrill-Seeking Activity,Zorbing park for fun and adventure.,Maadi,12:00 PM - 9:00 PM,12:00,21:00,9,FALSE,100.0,100.0
+AirZone Egypt,Thrill-Seeking Activity,Trampoline park for kids and adults.,New Cairo,11:00 AM - 5:00 PM (Sun-Wed),11:00,17:00,6,FALSE,,
+Aerodium Egypt,Thrill-Seeking Activity,Indoor skydiving experience.,Cairo Festival City,10:00 AM - 11:00 PM,10:00,23:00,13,FALSE,330.0,
+Funtopia Cairo,Thrill-Seeking Activity,Trampoline park with bowling and arcade games.,Mazar Mall,10:00 AM - 12:00 AM,10:00,0:00,14,FALSE,,
+Adrenalin Park,Thrill-Seeking Activity,"Amusement park offering paintball, laser fights, and treasure hunts.",6th of October City,12:00 PM - 8:00 PM,12:00,20:00,8,FALSE,,
+Sky Zone Egypt,Thrill-Seeking Activity,Trampoline park with various activities.,Dandy Mega Mall,10:00 AM - 11:00 PM,10:00,23:00,13,FALSE,170.0,170.0
+The Battlefield,Thrill-Seeking Activity,Real-time combat experience with infrared guns.,Unknown Location,4:00 PM - 12:00 AM,16:00,0:00,8,FALSE,,
+Bounce Inc,Thrill-Seeking Activity,Trampoline park for kids and adults.,Cairo Festival City,10:00 AM - 11:00 PM,10:00,23:00,13,FALSE,200.0,200.0
+C.O.D.E. Paintball Egypt,Thrill-Seeking Activity,Paintball park with various activities.,New Cairo,12:00 PM - 10:00 PM,12:00,22:00,10,FALSE,210.0,210.0
+Nile Kayak Club,Outdoor Activity,Experience kayaking in the Nile River.,Maadi,Check schedule on Facebook,,,,TRUE,200.0,200.0
+Sherlocked Egypt,Escape Room,Escape room experience with horror themes.,Dokki,3:00 PM - 3:00 AM,15:00,3:00,12,FALSE,120.0,120.0
+Nightmare Escape Egypt,Escape Room,Escape rooms with art performances.,Sheikh Zayed,5:00 PM - 12:30 AM,17:00,0:30,7.5,FALSE,130.0,130.0
+Escape Room Egypt,Escape Room,Various themed escape rooms.,Heliopolis,11:00 AM - 1:00 AM,11:00,1:00,14,FALSE,305.0,305.0
+Mind Maze,Escape Room,Escape rooms with various themes.,Maadi,3:00 PM - 1:00 AM,15:00,1:00,10,FALSE,400.0,400.0
+Escapology,Escape Room,Escape rooms with different themes.,Sheikh Zayed,3:00 PM - 12:00 AM,15:00,0:00,9,FALSE,300.0,300.0
+BreakOut Egypt,Escape Room,Escape rooms and kidnapping experiences.,New Cairo,12:00 PM - 1:30 AM,12:00,1:30,13.5,FALSE,370.0,370.0
+Escape Games Cairo,Escape Room,Escape rooms with various themes.,Zamalek,12:00 PM - 2:00 AM,12:00,2:00,14,FALSE,350.0,350.0
+The Exit Escape Game Egypt,Escape Room,Escape rooms with various themes.,Maadi,1:00 PM - 12:00 AM,13:00,0:00,11,FALSE,320.0,320.0
+The Maze Egypt,Maze Experience,A maze experience where you find your way out.,New Cairo,4:00 PM - 12:00 AM,16:00,0:00,8,FALSE,250.0,250.0
+Fear & Fight Club,Horror House,Horror house and laser fight experience.,Al Rehab,3:00 PM - 1:00 AM,15:00,1:00,10,FALSE,150.0,150.0
+The Horror House,Horror House,A horror house experience.,Mirage Mall,4:00 PM - 12:00 AM,16:00,0:00,8,FALSE,200.0,200.0
+Magic Planet Egypt,Arcade,Various arcade games and activities.,Maadi City Center,10:00 AM - 11:00 PM,10:00,23:00,13,FALSE,10.0,10.0
+Fun Zone Americana Plaza,Arcade,Arcade games and activities.,Sheikh Zayed,11:30 AM - 11:30 PM,11:30,23:30,12,FALSE,,
+Fabyland,Arcade,Family entertainment center with games.,Dandy Mega Mall,12:00 PM - 12:00 AM,12:00,0:00,12,FALSE,,
+Bounce Bowling & More,Bowling,Bowling and other games.,Maadi,11:00 AM - 12:00 AM,11:00,0:00,13,FALSE,,
+Strikers Bowling Dandy Mall,Bowling,Bowling activities.,Dandy Mega Mall,10:00 AM - 11:00 PM,10:00,23:00,13,FALSE,84.0,
+International Bowling Center,Bowling,Bowling activities.,Heliopolis,11:00 AM - 1:30 AM,11:00,1:30,14.5,FALSE,60.0,
+Immersive VR Egypt,Virtual Reality,Play virtual reality games alone or with friends.,New Cairo,1:00 PM - 1:00 AM,13:00,1:00,12,FALSE,180.0,180.0
+Lucid 51,Virtual Reality,Virtual reality gaming experience with various games.,Heliopolis,12:00 PM - 12:00 AM,12:00,0:00,12,FALSE,150.0,150.0
+Genesis,Virtual Reality,Virtual reality escape room experience.,Maadi,3:00 PM - 12:00 AM,15:00,0:00,9,FALSE,150.0,150.0
+Unleashed – Rage in Peace,Stress Relief,A place to scream and break items to release stress.,Concord Plaza Mall,8:00 PM - 2:00 AM,20:00,2:00,6,FALSE,100.0,
+Room Art Space & Cafe,Karaoke,"Venue for movie screenings, art performances, and karaoke nights.",Garden City,Karaoke on Mondays at 8 PM,Special Schedule,Special Schedule,,TRUE,,
+Love Bites Egypt,Cooking Class,Bake your own cake in a fun class.,Heliopolis,10:00 AM - 12:00 PM (booking required),10:00,12:00,2,TRUE,,
+Lulu’s Kitchen,Cooking Class,Cooking classes offered at various locations.,Multiple Locations,Special Schedule,,,,TRUE,,
+Monappetit,Cooking Class,Cooking classes for all skill levels.,Palm Strip Mall,9:00 AM - 9:00 PM,9:00,21:00,12,FALSE,,
+Ride the Camels and Revisit the Pyramids,Outdoor Activity,"Visit the Great Pyramid of Giza, ride camels, and enjoy a sound and light show.",Giza,7:00 AM - 6:00 PM,7:00,16:00,9,FALSE,100.0,100.0
+Interact with Animals at Kidzoo,Outdoor Activity,A small zoo where kids can interact with animals and enjoy fun activities.,Obour City,9:00 AM - 3:00 PM,9:00,15:00,6,FALSE,100.0,300.0
+Discover Animal Planet at Giza Zoo,Outdoor Activity,Explore a large collection of animals and visit the Zoological Museum.,Giza,"Daily except Tuesdays, 9:00 AM - 5:00 PM",9:00,17:00,8,TRUE,20.0,20.0
+Appreciate Art in Nature at Fagnoon Farm,Outdoor Activity,Engage in art activities and enjoy farm life experiences.,Giza,6:00 AM - 6:00 PM,6:00,18:00,12,FALSE,100.0,100.0
+Empower Kids at Kidzania Cairo,Indoor Activity,A miniature city where kids can role-play various professions.,Cairo Festival City,9:00 AM - 6:00 PM,9:00,18:00,9,FALSE,120.0,650.0
+Stay for the Weekend at Blue Lotus Farm,Outdoor Activity,A family-friendly farm offering accommodation and recreational activities.,Cairo,10:00 AM - 4:00 PM,10:00,16:00,6,FALSE,,
+Go on a Nature Trip at Al Sorat Farm,Outdoor Activity,A farm with various activities including horseback riding and animal interaction.,Abu Sir,8:00 AM - 7:00 PM,8:00,19:00,11,FALSE,200.0,125.0
+Watch a Performance at Sitara Theater,Cultural Activity,Interactive performances and workshops for kids.,Porto Cairo,Sunday - Thursday 9:00 AM - 2:00 PM,9:00,14:00,5,FALSE,,
+Explore Parks in Cairo,Outdoor Activity,Visit various parks for family bonding and picnics.,Multiple Locations,9:00 AM - 6:00 PM,9:00,18:00,9,FALSE,10.0,10.0
+Have Endless Fun at ClubLiko,Indoor Activity,A large play area with various activities for kids aged 1 to 8.,Cairo,12:00 PM - 9:00 PM,12:00,21:00,9,FALSE,384.0,384.0
+Buy Great Souvenir Finds at Khan el-Khalili,Shopping,A famous bazaar for souvenirs and local crafts.,El-Gamaleya,11:00 AM - 11:00 PM,11:00,23:00,12,FALSE,0.0,0.0
+Play and Socialize at Kiddles,Indoor Activity,An hourly drop-off center for kids to play and socialize.,Cairo,10:00 AM - 9:00 PM ,10:00,21:00,11,FALSE,250.0,250.0
+Slide and Jump at Billy Beez Cairo,Indoor Activity,An indoor playground with slides and trampolines for kids aged 3 to 12.,Mall of Arabia,10:00 AM - 10:00 PM,10:00,22:00,12,FALSE,100.0,450.0
+Channel Competitive Spirits at Heliopolis Child Museum,Cultural Activity,A children's museum with interactive exhibits about Egyptian civilization.,Heliopolis,8:00 AM - 9:00 PM,8:00,21:00,13,FALSE,80.0,80.0
+Climb the Cairo Tower,Outdoor Activity,Enjoy panoramic views of Cairo from the top of the tower.,Cairo,8:00 AM - 12:00 AM,8:00,0:00,20,FALSE,250.0,250.0
+Spend a Sweet Afternoon at Sugar Spell,Indoor Activity,"A candy shop with arts and crafts, games, and a playground.",Cairo,11:00 AM - 12:00 AM,11:00,0:00,23,FALSE,,
+Experience the Calm in a Felucca,Outdoor Activity,Sail on the Nile River in a traditional boat.,Cairo,9:00 AM - 6:00 PM,9:00,18:00,9,FALSE,24500.0,24500.0
+Go for a Magical Adventure at Magic Galaxy,Indoor Activity,An indoor amusement center with rides and games.,City Stars Mall,1:00 PM - 11:00 PM,13:00,23:00,10,FALSE,10.0,10.0
+=======,,,,,,,,,,
+Name,Type of Activity,Description,Location,OpeningTimes,OpeningTime,ClosingTime,Duration,Is_Special_Schedule,Fee_Adult_EGP,Fee_kid_EGP
+Al Azhar Park,Outdoor Activity,A large park with beautiful gardens and recreational areas.,Cairo,9:00 AM -10:00 PM  ,9:00,22:00,13,FALSE,10.0,
+Aquarium Grotto Park,Outdoor Activity,A park featuring an aquarium and scenic views.,Zamalek,9:00 AM - 5:30 PM ,9:00,17:30,8.5,FALSE,20.0,
+Family Park,Outdoor Activity,A family-friendly park with various activities.,New Cairo,9:00 AM -12:00 AM,9:00,0:00,21,FALSE,160.0,460.0
+Nile Cruise (Felucca),Outdoor Activity,Sail the Nile River at sunset.,Maadi,9:00 AM -12:00 AM,9:00,0:00,21,FALSE,24500.0,
+Zawya,Movie Screenings & Art Performances,Art-house cinema screening alternative films and local independent movies.,Downtown,Check weekly schedule,,,,TRUE,100.0,
+Magnolia Leaves of Art,Movie Screenings & Art Performances,"An art space for screenings, performances, and exhibitions.",Zamalek,11:00 AM - 11:00 PM,11:00,23:00,12,FALSE,,
+Wekalet El-Ghouri,Cultural Show,Home to the Whirling Dervishes Show with folk music.,Cairo,"Saturdays, Mondays & Wednesdays, 7:30 PM - 9:00 PM  ",7:30,21:00,15.5,FALSE,3061.5,
+Grip n Climb,Thrill-Seeking Activity,Indoor wall-climbing facility with zip-lining and rope courses.,Cairo Festival City,10:00 AM - 12:00 AM,10:00,0:00,14,FALSE,90.0,450.0
+Ski Egypt,Thrill-Seeking Activity,Indoor skiing experience in a desert country.,Mall of Egypt,10:00 AM - 11:00 PM,10:00,23:00,13,FALSE,600.0,600.0
+Autovrooom Cairo,Thrill-Seeking Activity,Amusement park for racing karts.,Obour City,2:30 PM - 12:00 AM,14:30,0:00,9.5,FALSE,584.4,584.4
+Gravity Code,Thrill-Seeking Activity,Trampoline-based activities for kids and adults.,New Cairo,10:00 AM - 11:00 PM,10:00,23:00,13,FALSE,,
+Verticality Zorbing Park,Thrill-Seeking Activity,Zorbing park for fun and adventure.,Maadi,12:00 PM - 9:00 PM,12:00,21:00,9,FALSE,100.0,100.0
+AirZone Egypt,Thrill-Seeking Activity,Trampoline park for kids and adults.,New Cairo,11:00 AM - 5:00 PM (Sun-Wed),11:00,17:00,6,FALSE,,
+Aerodium Egypt,Thrill-Seeking Activity,Indoor skydiving experience.,Cairo Festival City,10:00 AM - 11:00 PM,10:00,23:00,13,FALSE,330.0,
+Funtopia Cairo,Thrill-Seeking Activity,Trampoline park with bowling and arcade games.,Mazar Mall,10:00 AM - 12:00 AM,10:00,0:00,14,FALSE,,
+Adrenalin Park,Thrill-Seeking Activity,"Amusement park offering paintball, laser fights, and treasure hunts.",6th of October City,12:00 PM - 8:00 PM,12:00,20:00,8,FALSE,,
+Sky Zone Egypt,Thrill-Seeking Activity,Trampoline park with various activities.,Dandy Mega Mall,10:00 AM - 11:00 PM,10:00,23:00,13,FALSE,170.0,170.0
+The Battlefield,Thrill-Seeking Activity,Real-time combat experience with infrared guns.,Unknown Location,4:00 PM - 12:00 AM,16:00,0:00,8,FALSE,,
+Bounce Inc,Thrill-Seeking Activity,Trampoline park for kids and adults.,Cairo Festival City,10:00 AM - 11:00 PM,10:00,23:00,13,FALSE,200.0,200.0
+C.O.D.E. Paintball Egypt,Thrill-Seeking Activity,Paintball park with various activities.,New Cairo,12:00 PM - 10:00 PM,12:00,22:00,10,FALSE,210.0,210.0
+Nile Kayak Club,Outdoor Activity,Experience kayaking in the Nile River.,Maadi,Check schedule on Facebook,,,,TRUE,200.0,200.0
+Sherlocked Egypt,Escape Room,Escape room experience with horror themes.,Dokki,3:00 PM - 3:00 AM,15:00,3:00,12,FALSE,120.0,120.0
+Nightmare Escape Egypt,Escape Room,Escape rooms with art performances.,Sheikh Zayed,5:00 PM - 12:30 AM,17:00,0:30,7.5,FALSE,130.0,130.0
+Escape Room Egypt,Escape Room,Various themed escape rooms.,Heliopolis,11:00 AM - 1:00 AM,11:00,1:00,14,FALSE,305.0,305.0
+Mind Maze,Escape Room,Escape rooms with various themes.,Maadi,3:00 PM - 1:00 AM,15:00,1:00,10,FALSE,400.0,400.0
+Escapology,Escape Room,Escape rooms with different themes.,Sheikh Zayed,3:00 PM - 12:00 AM,15:00,0:00,9,FALSE,300.0,300.0
+BreakOut Egypt,Escape Room,Escape rooms and kidnapping experiences.,New Cairo,12:00 PM - 1:30 AM,12:00,1:30,13.5,FALSE,370.0,370.0
+Escape Games Cairo,Escape Room,Escape rooms with various themes.,Zamalek,12:00 PM - 2:00 AM,12:00,2:00,14,FALSE,350.0,350.0
+The Exit Escape Game Egypt,Escape Room,Escape rooms with various themes.,Maadi,1:00 PM - 12:00 AM,13:00,0:00,11,FALSE,320.0,320.0
+The Maze Egypt,Maze Experience,A maze experience where you find your way out.,New Cairo,4:00 PM - 12:00 AM,16:00,0:00,8,FALSE,250.0,250.0
+Fear & Fight Club,Horror House,Horror house and laser fight experience.,Al Rehab,3:00 PM - 1:00 AM,15:00,1:00,10,FALSE,150.0,150.0
+The Horror House,Horror House,A horror house experience.,Mirage Mall,4:00 PM - 12:00 AM,16:00,0:00,8,FALSE,200.0,200.0
+Magic Planet Egypt,Arcade,Various arcade games and activities.,Maadi City Center,10:00 AM - 11:00 PM,10:00,23:00,13,FALSE,10.0,10.0
+Fun Zone Americana Plaza,Arcade,Arcade games and activities.,Sheikh Zayed,11:30 AM - 11:30 PM,11:30,23:30,12,FALSE,,
+Fabyland,Arcade,Family entertainment center with games.,Dandy Mega Mall,12:00 PM - 12:00 AM,12:00,0:00,12,FALSE,,
+Bounce Bowling & More,Bowling,Bowling and other games.,Maadi,11:00 AM - 12:00 AM,11:00,0:00,13,FALSE,,
+Strikers Bowling Dandy Mall,Bowling,Bowling activities.,Dandy Mega Mall,10:00 AM - 11:00 PM,10:00,23:00,13,FALSE,84.0,
+International Bowling Center,Bowling,Bowling activities.,Heliopolis,11:00 AM - 1:30 AM,11:00,1:30,14.5,FALSE,60.0,
+Immersive VR Egypt,Virtual Reality,Play virtual reality games alone or with friends.,New Cairo,1:00 PM - 1:00 AM,13:00,1:00,12,FALSE,180.0,180.0
+Lucid 51,Virtual Reality,Virtual reality gaming experience with various games.,Heliopolis,12:00 PM - 12:00 AM,12:00,0:00,12,FALSE,150.0,150.0
+Genesis,Virtual Reality,Virtual reality escape room experience.,Maadi,3:00 PM - 12:00 AM,15:00,0:00,9,FALSE,150.0,150.0
+Unleashed – Rage in Peace,Stress Relief,A place to scream and break items to release stress.,Concord Plaza Mall,8:00 PM - 2:00 AM,20:00,2:00,6,FALSE,100.0,
+Room Art Space & Cafe,Karaoke,"Venue for movie screenings, art performances, and karaoke nights.",Garden City,Karaoke on Mondays at 8 PM,Special Schedule,Special Schedule,,TRUE,,
+Love Bites Egypt,Cooking Class,Bake your own cake in a fun class.,Heliopolis,10:00 AM - 12:00 PM (booking required),10:00,12:00,2,TRUE,,
+Lulu’s Kitchen,Cooking Class,Cooking classes offered at various locations.,Multiple Locations,Special Schedule,,,,TRUE,,
+Monappetit,Cooking Class,Cooking classes for all skill levels.,Palm Strip Mall,9:00 AM - 9:00 PM,9:00,21:00,12,FALSE,,
+Ride the Camels and Revisit the Pyramids,Outdoor Activity,"Visit the Great Pyramid of Giza, ride camels, and enjoy a sound and light show.",Giza,7:00 AM - 6:00 PM,7:00,16:00,9,FALSE,100.0,100.0
+Interact with Animals at Kidzoo,Outdoor Activity,A small zoo where kids can interact with animals and enjoy fun activities.,Obour City,9:00 AM - 3:00 PM,9:00,15:00,6,FALSE,100.0,300.0
+Discover Animal Planet at Giza Zoo,Outdoor Activity,Explore a large collection of animals and visit the Zoological Museum.,Giza,"Daily except Tuesdays, 9:00 AM - 5:00 PM",9:00,17:00,8,TRUE,20.0,20.0
+Appreciate Art in Nature at Fagnoon Farm,Outdoor Activity,Engage in art activities and enjoy farm life experiences.,Giza,6:00 AM - 6:00 PM,6:00,18:00,12,FALSE,100.0,100.0
+Empower Kids at Kidzania Cairo,Indoor Activity,A miniature city where kids can role-play various professions.,Cairo Festival City,9:00 AM - 6:00 PM,9:00,18:00,9,FALSE,120.0,650.0
+Stay for the Weekend at Blue Lotus Farm,Outdoor Activity,A family-friendly farm offering accommodation and recreational activities.,Cairo,10:00 AM - 4:00 PM,10:00,16:00,6,FALSE,,
+Go on a Nature Trip at Al Sorat Farm,Outdoor Activity,A farm with various activities including horseback riding and animal interaction.,Abu Sir,8:00 AM - 7:00 PM,8:00,19:00,11,FALSE,200.0,125.0
+Watch a Performance at Sitara Theater,Cultural Activity,Interactive performances and workshops for kids.,Porto Cairo,Sunday - Thursday 9:00 AM - 2:00 PM,9:00,14:00,5,FALSE,,
+Explore Parks in Cairo,Outdoor Activity,Visit various parks for family bonding and picnics.,Multiple Locations,9:00 AM - 6:00 PM,9:00,18:00,9,FALSE,10.0,10.0
+Have Endless Fun at ClubLiko,Indoor Activity,A large play area with various activities for kids aged 1 to 8.,Cairo,12:00 PM - 9:00 PM,12:00,21:00,9,FALSE,384.0,384.0
+Buy Great Souvenir Finds at Khan el-Khalili,Shopping,A famous bazaar for souvenirs and local crafts.,El-Gamaleya,11:00 AM - 11:00 PM,11:00,23:00,12,FALSE,0.0,0.0
+Play and Socialize at Kiddles,Indoor Activity,An hourly drop-off center for kids to play and socialize.,Cairo,10:00 AM - 9:00 PM ,10:00,21:00,11,FALSE,250.0,250.0
+Slide and Jump at Billy Beez Cairo,Indoor Activity,An indoor playground with slides and trampolines for kids aged 3 to 12.,Mall of Arabia,10:00 AM - 10:00 PM,10:00,22:00,12,FALSE,100.0,450.0
+Channel Competitive Spirits at Heliopolis Child Museum,Cultural Activity,A children's museum with interactive exhibits about Egyptian civilization.,Heliopolis,8:00 AM - 9:00 PM,8:00,21:00,13,FALSE,80.0,80.0
+Climb the Cairo Tower,Outdoor Activity,Enjoy panoramic views of Cairo from the top of the tower.,Cairo,8:00 AM - 12:00 AM,8:00,0:00,20,FALSE,250.0,250.0
+Spend a Sweet Afternoon at Sugar Spell,Indoor Activity,"A candy shop with arts and crafts, games, and a playground.",Cairo,11:00 AM - 12:00 AM,11:00,0:00,23,FALSE,,
+Experience the Calm in a Felucca,Outdoor Activity,Sail on the Nile River in a traditional boat.,Cairo,9:00 AM - 6:00 PM,9:00,18:00,9,FALSE,24500.0,24500.0
+Go for a Magical Adventure at Magic Galaxy,Indoor Activity,An indoor amusement center with rides and games.,City Stars Mall,1:00 PM - 11:00 PM,13:00,23:00,10,FALSE,10.0,10.0
+>>>>>>> 6ea35e46b0e827e55c4ef237a82dd189d72c98b4,,,,,,,,,,
+Get a Weekend Treat at the Swiss Club Cairo,Outdoor Activity,A club with green spaces and playgrounds for family relaxation.,Imbaba,9:00 AM - 5:00 PM,9:00,17:00,8,FALSE,,
